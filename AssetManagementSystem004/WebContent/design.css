@@ -1,0 +1,141 @@
+body {
+    background-image: url("tlo_nowe.jpg");
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color:blue;
+}
+
+.active {
+    background-color:blue;
+	}
+.cg {
+font-family:Arial;
+margin-left:450px;
+margin-top:-100px;
+font-size:30px;
+}	
+
+#son
+{
+float:right;
+}
+
+#imgs
+{
+width:250px;height:100px;
+}
+
+.container {
+	
+   width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid blue;
+    box-sizing: border-box;
+}
+#usn,#pwd
+{
+ width: 50%;
+    padding: 10px 10px;
+    margin: 10px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #1E90FF;
+    color: white;
+    padding: 15px 1px;
+    margin: 10px 0;
+    border: 1px solid black;
+    cursor: pointer;
+    width: 20%;
+}
+
+#mgr {
+	font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+	font-size:30px;
+}
+
+#astm {
+	width: 100%;
+    padding: 10px 10px;
+    margin: 10px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+	
+	
+}
+
+#but1 {
+	background-color: #1E90FF;
+    color: white;
+    padding: 15px 1px;
+    margin: 10px;
+    border: 1px solid black;
+    cursor: pointer;
+    width: 100%;
+	
+}
+
+#but2 {
+	margin-right:50px;
+	background-color: #1E90FF;
+    color: white;
+    padding: 15px 1px;
+    margin: 10px;
+    border: 1px solid black;
+    cursor: pointer;
+    width: 100%;
+	
+}
+
+#nwo {
+	  background-color: #1E90FF;
+    color: white;
+    padding: 15px 1px;
+    margin: 10px 0;
+    border: 1px solid black;
+    cursor: pointer;
+    width: 80%;
+}
+
+#nwi {
+	 background-color: #1E90FF;
+    color: white;
+    padding: 15px 1px;
+    margin: 10px 0;
+    border: 1px solid black;
+    cursor: pointer;
+    width: 30%;
+	
+}
+
+#fon {
+		font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+	font-size:20px;
+	
+}
