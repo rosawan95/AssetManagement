@@ -1,0 +1,1454 @@
+2017-04-01-default task-3-INFO -com.cg.asset.controller.AssetController:Application started
+2017-04-01-default task-3-INFO -com.cg.asset.controller.AssetController:Application started
+2017-04-01-default task-4-INFO -com.cg.asset.controller.AssetController:Application started
+2017-04-01-default task-4-INFO -stdout    :in try
+2017-04-01-default task-4-INFO -stdout    :null
+2017-04-01-default task-4-ERROR-com.cg.asset.controller.AssetController:Username does not exist
+2017-04-01-default task-3-INFO -com.cg.asset.controller.AssetController:Application started
+2017-04-01-default task-3-INFO -com.cg.asset.controller.AssetController:Application started
+2017-04-01-default task-4-INFO -com.cg.asset.controller.AssetController:Application started
+2017-04-01-default task-4-INFO -stdout    :in try
+2017-04-01-default task-4-INFO -stdout    :null
+2017-04-01-default task-4-ERROR-com.cg.asset.controller.AssetController:Username does not exist
+2017-04-01-default task-5-INFO -com.cg.asset.controller.AssetController:Application started
+2017-04-01-default task-5-INFO -stdout    :in try
+2017-04-01-default task-5-INFO -stdout    :null
+2017-04-01-default task-5-ERROR-com.cg.asset.controller.AssetController:Username does not exist
+2017-04-01-default task-6-INFO -com.cg.asset.controller.AssetController:Application started
+2017-04-01-default task-6-INFO -com.cg.asset.controller.AssetController:Application started
+2017-04-01-default task-10-INFO -com.cg.asset.controller.AssetController:Application started
+2017-04-01-default task-10-INFO -com.cg.asset.controller.AssetController:Application started
+2017-04-01-default task-11-INFO -com.cg.asset.controller.AssetController:Application started
+2017-04-01-default task-11-INFO -com.cg.asset.controller.AssetController:Application started
+2017-04-01-default task-15-INFO -com.cg.asset.controller.AssetController:Application started
+2017-04-01-default task-15-INFO -com.cg.asset.controller.AssetController:Application started
+2017-04-01-default task-19-INFO -com.cg.asset.controller.AssetController:Application started
+2017-04-01-default task-19-INFO -com.cg.asset.controller.AssetController:Application started
+2017-04-01-default task-23-INFO -com.cg.asset.controller.AssetController:Application started
+2017-04-01-default task-23-INFO -com.cg.asset.controller.AssetController:Application started
+2017-04-01-default task-27-INFO -com.cg.asset.controller.AssetController:Application started
+2017-04-01-default task-27-INFO -com.cg.asset.controller.AssetController:Application started
+2017-04-01-default task-31-INFO -com.cg.asset.controller.AssetController:Application started
+2017-04-01-default task-31-INFO -com.cg.asset.controller.AssetController:Application started
+2017-04-01-default task-32-INFO -com.cg.asset.controller.AssetController:Application started
+2017-04-01-default task-32-INFO -com.cg.asset.controller.AssetController:Application started
+2017-04-01-default task-33-INFO -com.cg.asset.controller.AssetController:Application started
+2017-04-01-default task-33-INFO -stdout    :in try
+2017-04-01-default task-33-INFO -stdout    :null
+2017-04-01-default task-33-ERROR-com.cg.asset.controller.AssetController:Username does not exist
+2017-04-01-default task-34-INFO -com.cg.asset.controller.AssetController:Application started
+2017-04-01-default task-34-INFO -stdout    :in try
+2017-04-01-default task-34-INFO -stdout    :null
+2017-04-01-default task-34-ERROR-com.cg.asset.controller.AssetController:Username does not exist
+2017-04-01-default task-35-INFO -com.cg.asset.controller.AssetController:Application started
+2017-04-01-default task-35-INFO -stdout    :in try
+2017-04-01-default task-35-INFO -stdout    :null
+2017-04-01-default task-35-ERROR-com.cg.asset.controller.AssetController:Username does not exist
+2017-04-01-default task-3-INFO -com.cg.asset.controller.AssetController:Application started
+2017-04-01-default task-3-INFO -com.cg.asset.controller.AssetController:Application started
+2017-04-01-default task-7-INFO -com.cg.asset.controller.AssetController:Application started
+2017-04-01-default task-7-INFO -stdout    :in try
+2017-04-01-default task-7-INFO -stdout    :null
+2017-04-01-default task-7-ERROR-com.cg.asset.controller.AssetController:Username does not exist
+2017-04-01-default task-8-INFO -com.cg.asset.controller.AssetController:Application started
+2017-04-01-default task-8-INFO -com.cg.asset.controller.AssetController:Application started
+2017-04-01-default task-12-INFO -com.cg.asset.controller.AssetController:Application started
+2017-04-01-default task-12-INFO -stdout    :in try
+2017-04-01-default task-12-INFO -stdout    :null
+2017-04-01-default task-12-ERROR-com.cg.asset.controller.AssetController:Username does not exist
+2017-04-01-default task-13-INFO -stdout    :null
+2017-04-01-default task-18-INFO -stdout    :null
+2017-04-01-default task-19-INFO -stdout    :null
+2017-04-01-default task-20-INFO -stdout    :null
+2017-04-01-default task-21-INFO -stdout    :null
+2017-04-01-default task-31-INFO -stdout    :null
+2017-04-02-default task-23-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-23-INFO -stdout    :/login.do   path
+2017-04-02-default task-28-INFO -stdout    :/login.do   path
+2017-04-02-default task-32-INFO -stdout    :/authenticate.do   path
+2017-04-02-default task-32-INFO -stdout    :Chintan
+2017-04-02-default task-32-INFO -stdout    :cmistr
+2017-04-02-default task-32-INFO -stdout    :Chintan cmistr
+2017-04-02-default task-32-INFO -stdout    :In do
+2017-04-02-default task-32-INFO -stdout    :in try of dao
+2017-04-02-default task-32-INFO -stdout    :made query
+2017-04-02-default task-32-INFO -stdout    :setString
+2017-04-02-default task-32-INFO -stdout    :executed the query
+2017-04-02-default task-32-INFO -stdout    :got data from table!
+2017-04-02-default task-32-INFO -stdout    :here in daoImpl
+2017-04-02-default task-32-INFO -stdout    :User [userId=1001, userName=Chintan, userPassword=cmistr, userType=Manager]
+2017-04-02-default task-32-INFO -stdout    :after getrequest
+2017-04-02-default task-32-INFO -stdout    :Chintancmistr1001
+2017-04-02-default task-32-INFO -stdout    :User [userId=1001, userName=Chintan, userPassword=cmistr, userType=Manager]
+2017-04-02-default task-32-INFO -stdout    :2
+2017-04-02-default task-32-INFO -stdout    :104
+2017-04-02-default task-32-INFO -stdout    :104
+2017-04-02-default task-33-INFO -stdout    :/createRequestData.do   path
+2017-04-02-default task-33-INFO -stdout    :in create
+2017-04-02-default task-33-INFO -stdout    :after array
+2017-04-02-default task-33-INFO -stdout    :in try
+2017-04-02-default task-33-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-33-INFO -stdout    :got id
+2017-04-02-default task-33-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-33-INFO -stdout    :got assets
+2017-04-02-default task-33-INFO -stdout    :added names and assets
+2017-04-02-default task-34-INFO -stdout    :/addRequest.do   path
+2017-04-02-default task-34-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-34-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-34-INFO -stdout    :SQL DAte: 2015-01-12
+2017-04-02-default task-34-INFO -stdout    :Todays date: 2017-04-02
+2017-04-02-default task-34-INFO -stdout    :User entered date: 2015-01-12
+2017-04-02-default task-34-INFO -stdout    :invalid date
+2017-04-02-default task-35-INFO -stdout    :/addRequest.do   path
+2017-04-02-default task-35-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-35-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-35-INFO -stdout    :SQL DAte: 2017-01-12
+2017-04-02-default task-35-INFO -stdout    :Todays date: 2017-04-02
+2017-04-02-default task-35-INFO -stdout    :User entered date: 2017-01-12
+2017-04-02-default task-35-INFO -stdout    :invalid date
+2017-04-02-default task-36-INFO -stdout    :/addRequest.do   path
+2017-04-02-default task-36-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-36-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-36-INFO -stdout    :SQL DAte: 2017-01-04
+2017-04-02-default task-36-INFO -stdout    :Todays date: 2017-04-02
+2017-04-02-default task-36-INFO -stdout    :User entered date: 2017-01-04
+2017-04-02-default task-36-INFO -stdout    :invalid date
+2017-04-02-default task-38-INFO -stdout    :/showAllRequests.do   path
+2017-04-02-default task-38-INFO -stdout    :showall
+2017-04-02-default task-38-INFO -stdout    :104
+2017-04-02-default task-38-INFO -stdout    :[]
+2017-04-02-default task-40-INFO -stdout    :/login.do   path
+2017-04-02-default task-41-INFO -stdout    :/authenticate.do   path
+2017-04-02-default task-41-INFO -stdout    :Rohit
+2017-04-02-default task-41-INFO -stdout    :rosawan
+2017-04-02-default task-41-INFO -stdout    :Rohit rosawan
+2017-04-02-default task-41-INFO -stdout    :In do
+2017-04-02-default task-41-INFO -stdout    :in try of dao
+2017-04-02-default task-41-INFO -stdout    :made query
+2017-04-02-default task-41-INFO -stdout    :setString
+2017-04-02-default task-41-INFO -stdout    :executed the query
+2017-04-02-default task-41-INFO -stdout    :got data from table!
+2017-04-02-default task-41-INFO -stdout    :here in daoImpl
+2017-04-02-default task-41-INFO -stdout    :User [userId=1002, userName=Rohit, userPassword=rosawan, userType=Admin]
+2017-04-02-default task-41-INFO -stdout    :after getrequest
+2017-04-02-default task-41-INFO -stdout    :Rohitrosawan1002
+2017-04-02-default task-41-INFO -stdout    :User [userId=1002, userName=Rohit, userPassword=rosawan, userType=Admin]
+2017-04-02-default task-41-INFO -stdout    :1
+2017-04-02-default task-41-INFO -stdout    : admin authenticated successfully
+2017-04-02-default task-41-INFO -stdout    :Asset status refreshed successfully
+2017-04-02-default task-42-INFO -stdout    :/showAssets.do   path
+2017-04-02-default task-42-INFO -stdout    :[Asset [assetId=1001, assetName=Pendrive, assetDesc=64Gb USB 3.0, quantity=110, status=Available], Asset [assetId=1002, assetName=Laptop, assetDesc=Thinkpad i7, quantity=15, status=Available], Asset [assetId=1003, assetName=Notepad, assetDesc=160 Pages, quantity=450, status=Available], Asset [assetId=1004, assetName=Notebook, assetDesc=160 Pages, quantity=1, status=Available]]
+2017-04-02-default task-44-INFO -stdout    :/showPendingRequests.do   path
+2017-04-02-default task-44-INFO -stdout    :here
+2017-04-02-default task-44-INFO -stdout    :[]
+2017-04-02-default task-46-INFO -stdout    :/showReport.do   path
+2017-04-02-default task-47-INFO -stdout    :/generateReport.do   path
+2017-04-02-default task-48-INFO -stdout    :/login.do   path
+2017-04-02-default task-49-INFO -stdout    :/authenticate.do   path
+2017-04-02-default task-49-INFO -stdout    :Chintan
+2017-04-02-default task-49-INFO -stdout    :cmistr
+2017-04-02-default task-49-INFO -stdout    :Chintan cmistr
+2017-04-02-default task-49-INFO -stdout    :In do
+2017-04-02-default task-49-INFO -stdout    :in try of dao
+2017-04-02-default task-49-INFO -stdout    :made query
+2017-04-02-default task-49-INFO -stdout    :setString
+2017-04-02-default task-49-INFO -stdout    :executed the query
+2017-04-02-default task-49-INFO -stdout    :got data from table!
+2017-04-02-default task-49-INFO -stdout    :here in daoImpl
+2017-04-02-default task-49-INFO -stdout    :User [userId=1001, userName=Chintan, userPassword=cmistr, userType=Manager]
+2017-04-02-default task-49-INFO -stdout    :after getrequest
+2017-04-02-default task-49-INFO -stdout    :Chintancmistr1001
+2017-04-02-default task-49-INFO -stdout    :User [userId=1001, userName=Chintan, userPassword=cmistr, userType=Manager]
+2017-04-02-default task-49-INFO -stdout    :2
+2017-04-02-default task-49-INFO -stdout    :104
+2017-04-02-default task-49-INFO -stdout    :104
+2017-04-02-default task-50-INFO -stdout    :/createRequestData.do   path
+2017-04-02-default task-50-INFO -stdout    :in create
+2017-04-02-default task-50-INFO -stdout    :after array
+2017-04-02-default task-50-INFO -stdout    :in try
+2017-04-02-default task-50-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-50-INFO -stdout    :got id
+2017-04-02-default task-50-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-50-INFO -stdout    :got assets
+2017-04-02-default task-50-INFO -stdout    :added names and assets
+2017-04-02-default task-51-INFO -stdout    :/showAllRequests.do   path
+2017-04-02-default task-51-INFO -stdout    :showall
+2017-04-02-default task-51-INFO -stdout    :104
+2017-04-02-default task-51-INFO -stdout    :[]
+2017-04-02-default task-53-INFO -stdout    :/login.do   path
+2017-04-02-default task-54-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-54-INFO -stdout    :/login.do   path
+2017-04-02-default task-58-INFO -stdout    :/authenticate.do   path
+2017-04-02-default task-58-INFO -stdout    :Chintan
+2017-04-02-default task-58-INFO -stdout    :cmistr
+2017-04-02-default task-58-INFO -stdout    :Chintan cmistr
+2017-04-02-default task-58-INFO -stdout    :In do
+2017-04-02-default task-58-INFO -stdout    :in try of dao
+2017-04-02-default task-58-INFO -stdout    :made query
+2017-04-02-default task-58-INFO -stdout    :setString
+2017-04-02-default task-58-INFO -stdout    :executed the query
+2017-04-02-default task-58-INFO -stdout    :got data from table!
+2017-04-02-default task-58-INFO -stdout    :here in daoImpl
+2017-04-02-default task-58-INFO -stdout    :User [userId=1001, userName=Chintan, userPassword=cmistr, userType=Manager]
+2017-04-02-default task-58-INFO -stdout    :after getrequest
+2017-04-02-default task-58-INFO -stdout    :Chintancmistr1001
+2017-04-02-default task-58-INFO -stdout    :User [userId=1001, userName=Chintan, userPassword=cmistr, userType=Manager]
+2017-04-02-default task-58-INFO -stdout    :2
+2017-04-02-default task-58-INFO -stdout    :104
+2017-04-02-default task-58-INFO -stdout    :104
+2017-04-02-default task-59-INFO -stdout    :/createRequestData.do   path
+2017-04-02-default task-59-INFO -stdout    :in create
+2017-04-02-default task-59-INFO -stdout    :after array
+2017-04-02-default task-59-INFO -stdout    :in try
+2017-04-02-default task-59-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-59-INFO -stdout    :got id
+2017-04-02-default task-59-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-59-INFO -stdout    :got assets
+2017-04-02-default task-59-INFO -stdout    :added names and assets
+2017-04-02-default task-60-INFO -stdout    :/addRequest.do   path
+2017-04-02-default task-60-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-60-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-60-INFO -stdout    :java.text.ParseException: Unparseable date: "12-12-2015"
+2017-04-02-default task-62-INFO -stdout    :/showAllRequests.do   path
+2017-04-02-default task-62-INFO -stdout    :showall
+2017-04-02-default task-62-INFO -stdout    :104
+2017-04-02-default task-62-INFO -stdout    :[]
+2017-04-02-default task-64-INFO -stdout    :/createRequestData.do   path
+2017-04-02-default task-64-INFO -stdout    :in create
+2017-04-02-default task-64-INFO -stdout    :after array
+2017-04-02-default task-64-INFO -stdout    :in try
+2017-04-02-default task-64-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-64-INFO -stdout    :got id
+2017-04-02-default task-64-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-64-INFO -stdout    :got assets
+2017-04-02-default task-64-INFO -stdout    :added names and assets
+2017-04-02-default task-1-INFO -stdout    :/addRequest.do   path
+2017-04-02-default task-1-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-1-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-1-INFO -stdout    :java.text.ParseException: Unparseable date: "12-12-2017"
+2017-04-02-default task-3-INFO -stdout    :/login.do   path
+2017-04-02-default task-4-INFO -stdout    :/authenticate.do   path
+2017-04-02-default task-4-INFO -stdout    :Chintan
+2017-04-02-default task-4-INFO -stdout    :cmistr
+2017-04-02-default task-4-INFO -stdout    :Chintan cmistr
+2017-04-02-default task-4-INFO -stdout    :In do
+2017-04-02-default task-4-INFO -stdout    :in try of dao
+2017-04-02-default task-4-INFO -stdout    :made query
+2017-04-02-default task-4-INFO -stdout    :setString
+2017-04-02-default task-4-INFO -stdout    :executed the query
+2017-04-02-default task-4-INFO -stdout    :got data from table!
+2017-04-02-default task-4-INFO -stdout    :here in daoImpl
+2017-04-02-default task-4-INFO -stdout    :User [userId=1001, userName=Chintan, userPassword=cmistr, userType=Manager]
+2017-04-02-default task-4-INFO -stdout    :after getrequest
+2017-04-02-default task-4-INFO -stdout    :Chintancmistr1001
+2017-04-02-default task-4-INFO -stdout    :User [userId=1001, userName=Chintan, userPassword=cmistr, userType=Manager]
+2017-04-02-default task-4-INFO -stdout    :2
+2017-04-02-default task-4-INFO -stdout    :104
+2017-04-02-default task-4-INFO -stdout    :104
+2017-04-02-default task-5-INFO -stdout    :/createRequestData.do   path
+2017-04-02-default task-5-INFO -stdout    :in create
+2017-04-02-default task-5-INFO -stdout    :after array
+2017-04-02-default task-5-INFO -stdout    :in try
+2017-04-02-default task-5-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-6-INFO -stdout    :/createRequestData.do   path
+2017-04-02-default task-6-INFO -stdout    :in create
+2017-04-02-default task-6-INFO -stdout    :after array
+2017-04-02-default task-6-INFO -stdout    :in try
+2017-04-02-default task-6-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-7-INFO -stdout    :/createRequestData.do   path
+2017-04-02-default task-7-INFO -stdout    :in create
+2017-04-02-default task-7-INFO -stdout    :after array
+2017-04-02-default task-7-INFO -stdout    :in try
+2017-04-02-default task-7-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-8-INFO -stdout    :/createRequestData.do   path
+2017-04-02-default task-8-INFO -stdout    :in create
+2017-04-02-default task-8-INFO -stdout    :after array
+2017-04-02-default task-8-INFO -stdout    :in try
+2017-04-02-default task-8-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-9-INFO -stdout    :/createRequestData.do   path
+2017-04-02-default task-9-INFO -stdout    :in create
+2017-04-02-default task-9-INFO -stdout    :after array
+2017-04-02-default task-9-INFO -stdout    :in try
+2017-04-02-default task-9-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-10-INFO -stdout    :/createRequestData.do   path
+2017-04-02-default task-10-INFO -stdout    :in create
+2017-04-02-default task-10-INFO -stdout    :after array
+2017-04-02-default task-10-INFO -stdout    :in try
+2017-04-02-default task-10-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-11-INFO -stdout    :/createRequestData.do   path
+2017-04-02-default task-11-INFO -stdout    :in create
+2017-04-02-default task-11-INFO -stdout    :after array
+2017-04-02-default task-11-INFO -stdout    :in try
+2017-04-02-default task-11-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-12-INFO -stdout    :/createRequestData.do   path
+2017-04-02-default task-12-INFO -stdout    :in create
+2017-04-02-default task-12-INFO -stdout    :after array
+2017-04-02-default task-12-INFO -stdout    :in try
+2017-04-02-default task-12-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-14-INFO -stdout    :/login.do   path
+2017-04-02-default task-15-INFO -stdout    :/authenticate.do   path
+2017-04-02-default task-15-INFO -stdout    :Chintan
+2017-04-02-default task-15-INFO -stdout    :cmistr
+2017-04-02-default task-15-INFO -stdout    :Chintan cmistr
+2017-04-02-default task-15-INFO -stdout    :In do
+2017-04-02-default task-15-INFO -stdout    :in try of dao
+2017-04-02-default task-15-INFO -stdout    :made query
+2017-04-02-default task-15-INFO -stdout    :setString
+2017-04-02-default task-15-INFO -stdout    :executed the query
+2017-04-02-default task-15-INFO -stdout    :got data from table!
+2017-04-02-default task-15-INFO -stdout    :here in daoImpl
+2017-04-02-default task-15-INFO -stdout    :User [userId=1001, userName=Chintan, userPassword=cmistr, userType=Manager]
+2017-04-02-default task-15-INFO -stdout    :after getrequest
+2017-04-02-default task-15-INFO -stdout    :Chintancmistr1001
+2017-04-02-default task-15-INFO -stdout    :User [userId=1001, userName=Chintan, userPassword=cmistr, userType=Manager]
+2017-04-02-default task-15-INFO -stdout    :2
+2017-04-02-default task-15-INFO -stdout    :104
+2017-04-02-default task-15-INFO -stdout    :104
+2017-04-02-default task-16-INFO -stdout    :/createRequestData.do   path
+2017-04-02-default task-16-INFO -stdout    :in create
+2017-04-02-default task-16-INFO -stdout    :after array
+2017-04-02-default task-16-INFO -stdout    :in try
+2017-04-02-default task-16-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-3-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-3-INFO -stdout    :/login.do   path
+2017-04-02-default task-4-INFO -stdout    :/login.do   path
+2017-04-02-default task-5-INFO -stdout    :/authenticate.do   path
+2017-04-02-default task-5-INFO -stdout    :Chintan
+2017-04-02-default task-5-INFO -stdout    :cmistr
+2017-04-02-default task-5-INFO -stdout    :Chintan cmistr
+2017-04-02-default task-5-INFO -stdout    :In do
+2017-04-02-default task-5-INFO -stdout    :in try of dao
+2017-04-02-default task-5-INFO -stdout    :made query
+2017-04-02-default task-5-INFO -stdout    :setString
+2017-04-02-default task-5-INFO -stdout    :executed the query
+2017-04-02-default task-5-INFO -stdout    :got data from table!
+2017-04-02-default task-5-INFO -stdout    :here in daoImpl
+2017-04-02-default task-5-INFO -stdout    :User [userId=1001, userName=Chintan, userPassword=cmistr, userType=Manager]
+2017-04-02-default task-5-INFO -stdout    :after getrequest
+2017-04-02-default task-5-INFO -stdout    :Chintancmistr1001
+2017-04-02-default task-5-INFO -stdout    :User [userId=1001, userName=Chintan, userPassword=cmistr, userType=Manager]
+2017-04-02-default task-5-INFO -stdout    :2
+2017-04-02-default task-5-INFO -stdout    :104
+2017-04-02-default task-5-INFO -stdout    :104
+2017-04-02-default task-6-INFO -stdout    :/createRequestData.do   path
+2017-04-02-default task-6-INFO -stdout    :in create
+2017-04-02-default task-6-INFO -stdout    :after array
+2017-04-02-default task-6-INFO -stdout    :in try
+2017-04-02-default task-6-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-6-INFO -stdout    :got id
+2017-04-02-default task-6-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-6-INFO -stdout    :got assets
+2017-04-02-default task-6-INFO -stdout    :added names and assets
+2017-04-02-default task-8-INFO -stdout    :/createRequestData.do   path
+2017-04-02-default task-8-INFO -stdout    :in create
+2017-04-02-default task-8-INFO -stdout    :after array
+2017-04-02-default task-8-INFO -stdout    :in try
+2017-04-02-default task-8-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-8-INFO -stdout    :got id
+2017-04-02-default task-8-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-8-INFO -stdout    :got assets
+2017-04-02-default task-8-INFO -stdout    :added names and assets
+2017-04-02-default task-10-INFO -stdout    :/createRequestData.do   path
+2017-04-02-default task-10-INFO -stdout    :in create
+2017-04-02-default task-10-INFO -stdout    :after array
+2017-04-02-default task-10-INFO -stdout    :in try
+2017-04-02-default task-10-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-10-INFO -stdout    :got id
+2017-04-02-default task-10-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-10-INFO -stdout    :got assets
+2017-04-02-default task-10-INFO -stdout    :added names and assets
+2017-04-02-default task-11-INFO -stdout    :/addRequest.do   path
+2017-04-02-default task-11-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-11-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-11-INFO -stdout    :java.text.ParseException: Unparseable date: "12-12-2017"
+2017-04-02-default task-13-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-13-INFO -stdout    :/login.do   path
+2017-04-02-default task-14-INFO -stdout    :/authenticate.do   path
+2017-04-02-default task-14-INFO -stdout    :Chintan
+2017-04-02-default task-14-INFO -stdout    :cmistr
+2017-04-02-default task-14-INFO -stdout    :Chintan cmistr
+2017-04-02-default task-14-INFO -stdout    :In do
+2017-04-02-default task-14-INFO -stdout    :in try of dao
+2017-04-02-default task-14-INFO -stdout    :made query
+2017-04-02-default task-14-INFO -stdout    :setString
+2017-04-02-default task-14-INFO -stdout    :executed the query
+2017-04-02-default task-14-INFO -stdout    :got data from table!
+2017-04-02-default task-14-INFO -stdout    :here in daoImpl
+2017-04-02-default task-14-INFO -stdout    :User [userId=1001, userName=Chintan, userPassword=cmistr, userType=Manager]
+2017-04-02-default task-14-INFO -stdout    :after getrequest
+2017-04-02-default task-14-INFO -stdout    :Chintancmistr1001
+2017-04-02-default task-14-INFO -stdout    :User [userId=1001, userName=Chintan, userPassword=cmistr, userType=Manager]
+2017-04-02-default task-14-INFO -stdout    :2
+2017-04-02-default task-14-INFO -stdout    :104
+2017-04-02-default task-14-INFO -stdout    :104
+2017-04-02-default task-15-INFO -stdout    :/createRequestData.do   path
+2017-04-02-default task-15-INFO -stdout    :in create
+2017-04-02-default task-15-INFO -stdout    :after array
+2017-04-02-default task-15-INFO -stdout    :in try
+2017-04-02-default task-15-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-15-INFO -stdout    :got id
+2017-04-02-default task-15-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-15-INFO -stdout    :got assets
+2017-04-02-default task-15-INFO -stdout    :added names and assets
+2017-04-02-default task-16-INFO -stdout    :/addRequest.do   path
+2017-04-02-default task-16-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-16-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-16-INFO -stdout    :SQL DAte: 2017-01-12
+2017-04-02-default task-18-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-18-INFO -stdout    :/login.do   path
+2017-04-02-default task-19-INFO -stdout    :/authenticate.do   path
+2017-04-02-default task-19-INFO -stdout    :Chintan
+2017-04-02-default task-19-INFO -stdout    :cmistr
+2017-04-02-default task-19-INFO -stdout    :Chintan cmistr
+2017-04-02-default task-19-INFO -stdout    :In do
+2017-04-02-default task-19-INFO -stdout    :in try of dao
+2017-04-02-default task-19-INFO -stdout    :made query
+2017-04-02-default task-19-INFO -stdout    :setString
+2017-04-02-default task-19-INFO -stdout    :executed the query
+2017-04-02-default task-19-INFO -stdout    :got data from table!
+2017-04-02-default task-19-INFO -stdout    :here in daoImpl
+2017-04-02-default task-19-INFO -stdout    :User [userId=1001, userName=Chintan, userPassword=cmistr, userType=Manager]
+2017-04-02-default task-19-INFO -stdout    :after getrequest
+2017-04-02-default task-19-INFO -stdout    :Chintancmistr1001
+2017-04-02-default task-19-INFO -stdout    :User [userId=1001, userName=Chintan, userPassword=cmistr, userType=Manager]
+2017-04-02-default task-19-INFO -stdout    :2
+2017-04-02-default task-19-INFO -stdout    :104
+2017-04-02-default task-19-INFO -stdout    :104
+2017-04-02-default task-20-INFO -stdout    :/createRequestData.do   path
+2017-04-02-default task-20-INFO -stdout    :in create
+2017-04-02-default task-20-INFO -stdout    :after array
+2017-04-02-default task-20-INFO -stdout    :in try
+2017-04-02-default task-20-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-20-INFO -stdout    :got id
+2017-04-02-default task-20-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-20-INFO -stdout    :got assets
+2017-04-02-default task-20-INFO -stdout    :added names and assets
+2017-04-02-default task-21-INFO -stdout    :/addRequest.do   path
+2017-04-02-default task-21-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-21-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-21-INFO -stdout    :SQL DAte: 2017-01-12
+2017-04-02-default task-3-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-3-INFO -stdout    :/login.do   path
+2017-04-02-default task-4-INFO -stdout    :/authenticate.do   path
+2017-04-02-default task-4-INFO -stdout    :Chintan
+2017-04-02-default task-4-INFO -stdout    :cmistr
+2017-04-02-default task-4-INFO -stdout    :Chintan cmistr
+2017-04-02-default task-4-INFO -stdout    :In do
+2017-04-02-default task-4-INFO -stdout    :in try of dao
+2017-04-02-default task-4-INFO -stdout    :made query
+2017-04-02-default task-4-INFO -stdout    :setString
+2017-04-02-default task-4-INFO -stdout    :executed the query
+2017-04-02-default task-4-INFO -stdout    :got data from table!
+2017-04-02-default task-4-INFO -stdout    :here in daoImpl
+2017-04-02-default task-4-INFO -stdout    :User [userId=1001, userName=Chintan, userPassword=cmistr, userType=Manager]
+2017-04-02-default task-4-INFO -stdout    :after getrequest
+2017-04-02-default task-4-INFO -stdout    :Chintancmistr1001
+2017-04-02-default task-4-INFO -stdout    :User [userId=1001, userName=Chintan, userPassword=cmistr, userType=Manager]
+2017-04-02-default task-4-INFO -stdout    :2
+2017-04-02-default task-4-INFO -stdout    :104
+2017-04-02-default task-4-INFO -stdout    :104
+2017-04-02-default task-5-INFO -stdout    :/createRequestData.do   path
+2017-04-02-default task-5-INFO -stdout    :in create
+2017-04-02-default task-5-INFO -stdout    :after array
+2017-04-02-default task-5-INFO -stdout    :in try
+2017-04-02-default task-5-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-5-INFO -stdout    :got id
+2017-04-02-default task-5-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-5-INFO -stdout    :got assets
+2017-04-02-default task-5-INFO -stdout    :added names and assets
+2017-04-02-default task-6-INFO -stdout    :/addRequest.do   path
+2017-04-02-default task-6-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-6-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-6-INFO -stdout    :SQL DAte: 2017-01-12
+2017-04-02-default task-8-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-8-INFO -stdout    :/login.do   path
+2017-04-02-default task-9-INFO -stdout    :/authenticate.do   path
+2017-04-02-default task-9-INFO -stdout    :Chintan
+2017-04-02-default task-9-INFO -stdout    :cmistr
+2017-04-02-default task-9-INFO -stdout    :Chintan cmistr
+2017-04-02-default task-9-INFO -stdout    :In do
+2017-04-02-default task-9-INFO -stdout    :in try of dao
+2017-04-02-default task-9-INFO -stdout    :made query
+2017-04-02-default task-9-INFO -stdout    :setString
+2017-04-02-default task-9-INFO -stdout    :executed the query
+2017-04-02-default task-9-INFO -stdout    :got data from table!
+2017-04-02-default task-9-INFO -stdout    :here in daoImpl
+2017-04-02-default task-9-INFO -stdout    :User [userId=1001, userName=Chintan, userPassword=cmistr, userType=Manager]
+2017-04-02-default task-9-INFO -stdout    :after getrequest
+2017-04-02-default task-9-INFO -stdout    :Chintancmistr1001
+2017-04-02-default task-9-INFO -stdout    :User [userId=1001, userName=Chintan, userPassword=cmistr, userType=Manager]
+2017-04-02-default task-9-INFO -stdout    :2
+2017-04-02-default task-9-INFO -stdout    :104
+2017-04-02-default task-9-INFO -stdout    :104
+2017-04-02-default task-10-INFO -stdout    :/createRequestData.do   path
+2017-04-02-default task-10-INFO -stdout    :in create
+2017-04-02-default task-10-INFO -stdout    :after array
+2017-04-02-default task-10-INFO -stdout    :in try
+2017-04-02-default task-10-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-10-INFO -stdout    :got id
+2017-04-02-default task-10-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-10-INFO -stdout    :got assets
+2017-04-02-default task-10-INFO -stdout    :added names and assets
+2017-04-02-default task-11-INFO -stdout    :/addRequest.do   path
+2017-04-02-default task-11-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-11-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-11-INFO -stdout    :SQL DAte: 2017-01-12
+2017-04-02-default task-11-ERROR-stderr    :java.text.ParseException: Unparseable date: "Sun Apr 02 19:03:22 IST 2017"
+2017-04-02-default task-11-ERROR-stderr    :	at java.text.DateFormat.parse(Unknown Source)
+2017-04-02-default task-11-ERROR-stderr    :	at com.cg.asset.services.AssetServiceImpl.isDateValid(AssetServiceImpl.java:65)
+2017-04-02-default task-11-ERROR-stderr    :	at com.cg.asset.controller.AssetController.processrequest(AssetController.java:350)
+2017-04-02-default task-11-ERROR-stderr    :	at com.cg.asset.controller.AssetController.doGet(AssetController.java:48)
+2017-04-02-default task-11-ERROR-stderr    :	at com.cg.asset.controller.AssetController.doPost(AssetController.java:53)
+2017-04-02-default task-11-ERROR-stderr    :	at javax.servlet.http.HttpServlet.service(HttpServlet.java:707)
+2017-04-02-default task-11-ERROR-stderr    :	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+2017-04-02-default task-11-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletHandler.handleRequest(ServletHandler.java:85)
+2017-04-02-default task-11-ERROR-stderr    :	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62)
+2017-04-02-default task-11-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36)
+2017-04-02-default task-11-ERROR-stderr    :	at org.wildfly.extension.undertow.security.SecurityContextAssociationHandler.handleRequest(SecurityContextAssociationHandler.java:78)
+2017-04-02-default task-11-ERROR-stderr    :	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+2017-04-02-default task-11-ERROR-stderr    :	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:131)
+2017-04-02-default task-11-ERROR-stderr    :	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57)
+2017-04-02-default task-11-ERROR-stderr    :	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+2017-04-02-default task-11-ERROR-stderr    :	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46)
+2017-04-02-default task-11-ERROR-stderr    :	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64)
+2017-04-02-default task-11-ERROR-stderr    :	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:60)
+2017-04-02-default task-11-ERROR-stderr    :	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:77)
+2017-04-02-default task-11-ERROR-stderr    :	at io.undertow.security.handlers.NotificationReceiverHandler.handleRequest(NotificationReceiverHandler.java:50)
+2017-04-02-default task-11-ERROR-stderr    :	at io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43)
+2017-04-02-default task-11-ERROR-stderr    :	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+2017-04-02-default task-11-ERROR-stderr    :	at org.wildfly.extension.undertow.security.jacc.JACCContextIdHandler.handleRequest(JACCContextIdHandler.java:61)
+2017-04-02-default task-11-ERROR-stderr    :	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+2017-04-02-default task-11-ERROR-stderr    :	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+2017-04-02-default task-11-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:292)
+2017-04-02-default task-11-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler.access$100(ServletInitialHandler.java:81)
+2017-04-02-default task-11-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:138)
+2017-04-02-default task-11-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:135)
+2017-04-02-default task-11-ERROR-stderr    :	at io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48)
+2017-04-02-default task-11-ERROR-stderr    :	at io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43)
+2017-04-02-default task-11-ERROR-stderr    :	at io.undertow.servlet.api.LegacyThreadSetupActionWrapper$1.call(LegacyThreadSetupActionWrapper.java:44)
+2017-04-02-default task-11-ERROR-stderr    :	at io.undertow.servlet.api.LegacyThreadSetupActionWrapper$1.call(LegacyThreadSetupActionWrapper.java:44)
+2017-04-02-default task-11-ERROR-stderr    :	at io.undertow.servlet.api.LegacyThreadSetupActionWrapper$1.call(LegacyThreadSetupActionWrapper.java:44)
+2017-04-02-default task-11-ERROR-stderr    :	at io.undertow.servlet.api.LegacyThreadSetupActionWrapper$1.call(LegacyThreadSetupActionWrapper.java:44)
+2017-04-02-default task-11-ERROR-stderr    :	at io.undertow.servlet.api.LegacyThreadSetupActionWrapper$1.call(LegacyThreadSetupActionWrapper.java:44)
+2017-04-02-default task-11-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:272)
+2017-04-02-default task-11-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler.access$000(ServletInitialHandler.java:81)
+2017-04-02-default task-11-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:104)
+2017-04-02-default task-11-ERROR-stderr    :	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:202)
+2017-04-02-default task-11-ERROR-stderr    :	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:805)
+2017-04-02-default task-11-ERROR-stderr    :	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+2017-04-02-default task-11-ERROR-stderr    :	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+2017-04-02-default task-11-ERROR-stderr    :	at java.lang.Thread.run(Unknown Source)
+2017-04-02-default task-11-INFO -stdout    :Todays date: Sun Apr 02 19:03:22 IST 2017
+2017-04-02-default task-11-INFO -stdout    :User entered date: 2017-01-12
+2017-04-02-default task-11-INFO -stdout    :invalid date
+2017-04-02-default task-12-INFO -stdout    :/addRequest.do   path
+2017-04-02-default task-12-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-12-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-12-INFO -stdout    :SQL DAte: 2017-01-12
+2017-04-02-default task-12-ERROR-stderr    :java.text.ParseException: Unparseable date: "Sun Apr 02 19:03:38 IST 2017"
+2017-04-02-default task-12-ERROR-stderr    :	at java.text.DateFormat.parse(Unknown Source)
+2017-04-02-default task-12-ERROR-stderr    :	at com.cg.asset.services.AssetServiceImpl.isDateValid(AssetServiceImpl.java:65)
+2017-04-02-default task-12-ERROR-stderr    :	at com.cg.asset.controller.AssetController.processrequest(AssetController.java:350)
+2017-04-02-default task-12-ERROR-stderr    :	at com.cg.asset.controller.AssetController.doGet(AssetController.java:48)
+2017-04-02-default task-12-ERROR-stderr    :	at com.cg.asset.controller.AssetController.doPost(AssetController.java:53)
+2017-04-02-default task-12-ERROR-stderr    :	at javax.servlet.http.HttpServlet.service(HttpServlet.java:707)
+2017-04-02-default task-12-ERROR-stderr    :	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+2017-04-02-default task-12-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletHandler.handleRequest(ServletHandler.java:85)
+2017-04-02-default task-12-ERROR-stderr    :	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62)
+2017-04-02-default task-12-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36)
+2017-04-02-default task-12-ERROR-stderr    :	at org.wildfly.extension.undertow.security.SecurityContextAssociationHandler.handleRequest(SecurityContextAssociationHandler.java:78)
+2017-04-02-default task-12-ERROR-stderr    :	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+2017-04-02-default task-12-ERROR-stderr    :	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:131)
+2017-04-02-default task-12-ERROR-stderr    :	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57)
+2017-04-02-default task-12-ERROR-stderr    :	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+2017-04-02-default task-12-ERROR-stderr    :	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46)
+2017-04-02-default task-12-ERROR-stderr    :	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64)
+2017-04-02-default task-12-ERROR-stderr    :	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:60)
+2017-04-02-default task-12-ERROR-stderr    :	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:77)
+2017-04-02-default task-12-ERROR-stderr    :	at io.undertow.security.handlers.NotificationReceiverHandler.handleRequest(NotificationReceiverHandler.java:50)
+2017-04-02-default task-12-ERROR-stderr    :	at io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43)
+2017-04-02-default task-12-ERROR-stderr    :	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+2017-04-02-default task-12-ERROR-stderr    :	at org.wildfly.extension.undertow.security.jacc.JACCContextIdHandler.handleRequest(JACCContextIdHandler.java:61)
+2017-04-02-default task-12-ERROR-stderr    :	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+2017-04-02-default task-12-ERROR-stderr    :	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+2017-04-02-default task-12-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:292)
+2017-04-02-default task-12-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler.access$100(ServletInitialHandler.java:81)
+2017-04-02-default task-12-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:138)
+2017-04-02-default task-12-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:135)
+2017-04-02-default task-12-ERROR-stderr    :	at io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48)
+2017-04-02-default task-12-ERROR-stderr    :	at io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43)
+2017-04-02-default task-12-ERROR-stderr    :	at io.undertow.servlet.api.LegacyThreadSetupActionWrapper$1.call(LegacyThreadSetupActionWrapper.java:44)
+2017-04-02-default task-12-ERROR-stderr    :	at io.undertow.servlet.api.LegacyThreadSetupActionWrapper$1.call(LegacyThreadSetupActionWrapper.java:44)
+2017-04-02-default task-12-ERROR-stderr    :	at io.undertow.servlet.api.LegacyThreadSetupActionWrapper$1.call(LegacyThreadSetupActionWrapper.java:44)
+2017-04-02-default task-12-ERROR-stderr    :	at io.undertow.servlet.api.LegacyThreadSetupActionWrapper$1.call(LegacyThreadSetupActionWrapper.java:44)
+2017-04-02-default task-12-ERROR-stderr    :	at io.undertow.servlet.api.LegacyThreadSetupActionWrapper$1.call(LegacyThreadSetupActionWrapper.java:44)
+2017-04-02-default task-12-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:272)
+2017-04-02-default task-12-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler.access$000(ServletInitialHandler.java:81)
+2017-04-02-default task-12-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:104)
+2017-04-02-default task-12-ERROR-stderr    :	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:202)
+2017-04-02-default task-12-ERROR-stderr    :	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:805)
+2017-04-02-default task-12-ERROR-stderr    :	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+2017-04-02-default task-12-ERROR-stderr    :	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+2017-04-02-default task-12-ERROR-stderr    :	at java.lang.Thread.run(Unknown Source)
+2017-04-02-default task-12-INFO -stdout    :Todays date: Sun Apr 02 19:03:38 IST 2017
+2017-04-02-default task-12-INFO -stdout    :User entered date: 2017-01-12
+2017-04-02-default task-12-INFO -stdout    :invalid date
+2017-04-02-default task-13-INFO -stdout    :/addRequest.do   path
+2017-04-02-default task-13-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-13-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-13-INFO -stdout    :SQL DAte: 2015-01-12
+2017-04-02-default task-13-ERROR-stderr    :java.text.ParseException: Unparseable date: "Sun Apr 02 19:03:53 IST 2017"
+2017-04-02-default task-13-ERROR-stderr    :	at java.text.DateFormat.parse(Unknown Source)
+2017-04-02-default task-13-ERROR-stderr    :	at com.cg.asset.services.AssetServiceImpl.isDateValid(AssetServiceImpl.java:65)
+2017-04-02-default task-13-ERROR-stderr    :	at com.cg.asset.controller.AssetController.processrequest(AssetController.java:350)
+2017-04-02-default task-13-ERROR-stderr    :	at com.cg.asset.controller.AssetController.doGet(AssetController.java:48)
+2017-04-02-default task-13-ERROR-stderr    :	at com.cg.asset.controller.AssetController.doPost(AssetController.java:53)
+2017-04-02-default task-13-ERROR-stderr    :	at javax.servlet.http.HttpServlet.service(HttpServlet.java:707)
+2017-04-02-default task-13-ERROR-stderr    :	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+2017-04-02-default task-13-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletHandler.handleRequest(ServletHandler.java:85)
+2017-04-02-default task-13-ERROR-stderr    :	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62)
+2017-04-02-default task-13-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36)
+2017-04-02-default task-13-ERROR-stderr    :	at org.wildfly.extension.undertow.security.SecurityContextAssociationHandler.handleRequest(SecurityContextAssociationHandler.java:78)
+2017-04-02-default task-13-ERROR-stderr    :	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+2017-04-02-default task-13-ERROR-stderr    :	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:131)
+2017-04-02-default task-13-ERROR-stderr    :	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57)
+2017-04-02-default task-13-ERROR-stderr    :	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+2017-04-02-default task-13-ERROR-stderr    :	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46)
+2017-04-02-default task-13-ERROR-stderr    :	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64)
+2017-04-02-default task-13-ERROR-stderr    :	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:60)
+2017-04-02-default task-13-ERROR-stderr    :	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:77)
+2017-04-02-default task-13-ERROR-stderr    :	at io.undertow.security.handlers.NotificationReceiverHandler.handleRequest(NotificationReceiverHandler.java:50)
+2017-04-02-default task-13-ERROR-stderr    :	at io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43)
+2017-04-02-default task-13-ERROR-stderr    :	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+2017-04-02-default task-13-ERROR-stderr    :	at org.wildfly.extension.undertow.security.jacc.JACCContextIdHandler.handleRequest(JACCContextIdHandler.java:61)
+2017-04-02-default task-13-ERROR-stderr    :	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+2017-04-02-default task-13-ERROR-stderr    :	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+2017-04-02-default task-13-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:292)
+2017-04-02-default task-13-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler.access$100(ServletInitialHandler.java:81)
+2017-04-02-default task-13-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:138)
+2017-04-02-default task-13-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:135)
+2017-04-02-default task-13-ERROR-stderr    :	at io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48)
+2017-04-02-default task-13-ERROR-stderr    :	at io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43)
+2017-04-02-default task-13-ERROR-stderr    :	at io.undertow.servlet.api.LegacyThreadSetupActionWrapper$1.call(LegacyThreadSetupActionWrapper.java:44)
+2017-04-02-default task-13-ERROR-stderr    :	at io.undertow.servlet.api.LegacyThreadSetupActionWrapper$1.call(LegacyThreadSetupActionWrapper.java:44)
+2017-04-02-default task-13-ERROR-stderr    :	at io.undertow.servlet.api.LegacyThreadSetupActionWrapper$1.call(LegacyThreadSetupActionWrapper.java:44)
+2017-04-02-default task-13-ERROR-stderr    :	at io.undertow.servlet.api.LegacyThreadSetupActionWrapper$1.call(LegacyThreadSetupActionWrapper.java:44)
+2017-04-02-default task-13-ERROR-stderr    :	at io.undertow.servlet.api.LegacyThreadSetupActionWrapper$1.call(LegacyThreadSetupActionWrapper.java:44)
+2017-04-02-default task-13-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:272)
+2017-04-02-default task-13-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler.access$000(ServletInitialHandler.java:81)
+2017-04-02-default task-13-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:104)
+2017-04-02-default task-13-ERROR-stderr    :	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:202)
+2017-04-02-default task-13-ERROR-stderr    :	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:805)
+2017-04-02-default task-13-ERROR-stderr    :	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+2017-04-02-default task-13-ERROR-stderr    :	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+2017-04-02-default task-13-ERROR-stderr    :	at java.lang.Thread.run(Unknown Source)
+2017-04-02-default task-13-INFO -stdout    :Todays date: Sun Apr 02 19:03:53 IST 2017
+2017-04-02-default task-13-INFO -stdout    :User entered date: 2015-01-12
+2017-04-02-default task-13-INFO -stdout    :invalid date
+2017-04-02-default task-14-INFO -stdout    :/addRequest.do   path
+2017-04-02-default task-14-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-14-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-14-INFO -stdout    :SQL DAte: 2011-01-12
+2017-04-02-default task-14-ERROR-stderr    :java.text.ParseException: Unparseable date: "Sun Apr 02 19:04:29 IST 2017"
+2017-04-02-default task-14-ERROR-stderr    :	at java.text.DateFormat.parse(Unknown Source)
+2017-04-02-default task-14-ERROR-stderr    :	at com.cg.asset.services.AssetServiceImpl.isDateValid(AssetServiceImpl.java:65)
+2017-04-02-default task-14-ERROR-stderr    :	at com.cg.asset.controller.AssetController.processrequest(AssetController.java:350)
+2017-04-02-default task-14-ERROR-stderr    :	at com.cg.asset.controller.AssetController.doGet(AssetController.java:48)
+2017-04-02-default task-14-ERROR-stderr    :	at com.cg.asset.controller.AssetController.doPost(AssetController.java:53)
+2017-04-02-default task-14-ERROR-stderr    :	at javax.servlet.http.HttpServlet.service(HttpServlet.java:707)
+2017-04-02-default task-14-ERROR-stderr    :	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+2017-04-02-default task-14-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletHandler.handleRequest(ServletHandler.java:85)
+2017-04-02-default task-14-ERROR-stderr    :	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62)
+2017-04-02-default task-14-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36)
+2017-04-02-default task-14-ERROR-stderr    :	at org.wildfly.extension.undertow.security.SecurityContextAssociationHandler.handleRequest(SecurityContextAssociationHandler.java:78)
+2017-04-02-default task-14-ERROR-stderr    :	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+2017-04-02-default task-14-ERROR-stderr    :	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:131)
+2017-04-02-default task-14-ERROR-stderr    :	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57)
+2017-04-02-default task-14-ERROR-stderr    :	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+2017-04-02-default task-14-ERROR-stderr    :	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46)
+2017-04-02-default task-14-ERROR-stderr    :	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64)
+2017-04-02-default task-14-ERROR-stderr    :	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:60)
+2017-04-02-default task-14-ERROR-stderr    :	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:77)
+2017-04-02-default task-14-ERROR-stderr    :	at io.undertow.security.handlers.NotificationReceiverHandler.handleRequest(NotificationReceiverHandler.java:50)
+2017-04-02-default task-14-ERROR-stderr    :	at io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43)
+2017-04-02-default task-14-ERROR-stderr    :	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+2017-04-02-default task-14-ERROR-stderr    :	at org.wildfly.extension.undertow.security.jacc.JACCContextIdHandler.handleRequest(JACCContextIdHandler.java:61)
+2017-04-02-default task-14-ERROR-stderr    :	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+2017-04-02-default task-14-ERROR-stderr    :	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+2017-04-02-default task-14-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:292)
+2017-04-02-default task-14-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler.access$100(ServletInitialHandler.java:81)
+2017-04-02-default task-14-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:138)
+2017-04-02-default task-14-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:135)
+2017-04-02-default task-14-ERROR-stderr    :	at io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48)
+2017-04-02-default task-14-ERROR-stderr    :	at io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43)
+2017-04-02-default task-14-ERROR-stderr    :	at io.undertow.servlet.api.LegacyThreadSetupActionWrapper$1.call(LegacyThreadSetupActionWrapper.java:44)
+2017-04-02-default task-14-ERROR-stderr    :	at io.undertow.servlet.api.LegacyThreadSetupActionWrapper$1.call(LegacyThreadSetupActionWrapper.java:44)
+2017-04-02-default task-14-ERROR-stderr    :	at io.undertow.servlet.api.LegacyThreadSetupActionWrapper$1.call(LegacyThreadSetupActionWrapper.java:44)
+2017-04-02-default task-14-ERROR-stderr    :	at io.undertow.servlet.api.LegacyThreadSetupActionWrapper$1.call(LegacyThreadSetupActionWrapper.java:44)
+2017-04-02-default task-14-ERROR-stderr    :	at io.undertow.servlet.api.LegacyThreadSetupActionWrapper$1.call(LegacyThreadSetupActionWrapper.java:44)
+2017-04-02-default task-14-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:272)
+2017-04-02-default task-14-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler.access$000(ServletInitialHandler.java:81)
+2017-04-02-default task-14-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:104)
+2017-04-02-default task-14-ERROR-stderr    :	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:202)
+2017-04-02-default task-14-ERROR-stderr    :	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:805)
+2017-04-02-default task-14-ERROR-stderr    :	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+2017-04-02-default task-14-ERROR-stderr    :	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+2017-04-02-default task-14-ERROR-stderr    :	at java.lang.Thread.run(Unknown Source)
+2017-04-02-default task-14-INFO -stdout    :Todays date: Sun Apr 02 19:04:29 IST 2017
+2017-04-02-default task-14-INFO -stdout    :User entered date: 2011-01-12
+2017-04-02-default task-14-INFO -stdout    :invalid date
+2017-04-02-default task-15-INFO -stdout    :/createRequestData.do   path
+2017-04-02-default task-15-INFO -stdout    :in create
+2017-04-02-default task-15-INFO -stdout    :after array
+2017-04-02-default task-15-INFO -stdout    :in try
+2017-04-02-default task-15-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-15-INFO -stdout    :got id
+2017-04-02-default task-15-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-15-INFO -stdout    :got assets
+2017-04-02-default task-15-INFO -stdout    :added names and assets
+2017-04-02-default task-16-INFO -stdout    :/addRequest.do   path
+2017-04-02-default task-16-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-16-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-16-INFO -stdout    :SQL DAte: 2017-01-12
+2017-04-02-default task-16-ERROR-stderr    :java.text.ParseException: Unparseable date: "Sun Apr 02 19:05:35 IST 2017"
+2017-04-02-default task-16-ERROR-stderr    :	at java.text.DateFormat.parse(Unknown Source)
+2017-04-02-default task-16-ERROR-stderr    :	at com.cg.asset.services.AssetServiceImpl.isDateValid(AssetServiceImpl.java:65)
+2017-04-02-default task-16-ERROR-stderr    :	at com.cg.asset.controller.AssetController.processrequest(AssetController.java:350)
+2017-04-02-default task-16-ERROR-stderr    :	at com.cg.asset.controller.AssetController.doGet(AssetController.java:48)
+2017-04-02-default task-16-ERROR-stderr    :	at com.cg.asset.controller.AssetController.doPost(AssetController.java:53)
+2017-04-02-default task-16-ERROR-stderr    :	at javax.servlet.http.HttpServlet.service(HttpServlet.java:707)
+2017-04-02-default task-16-ERROR-stderr    :	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+2017-04-02-default task-16-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletHandler.handleRequest(ServletHandler.java:85)
+2017-04-02-default task-16-ERROR-stderr    :	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62)
+2017-04-02-default task-16-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36)
+2017-04-02-default task-16-ERROR-stderr    :	at org.wildfly.extension.undertow.security.SecurityContextAssociationHandler.handleRequest(SecurityContextAssociationHandler.java:78)
+2017-04-02-default task-16-ERROR-stderr    :	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+2017-04-02-default task-16-ERROR-stderr    :	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:131)
+2017-04-02-default task-16-ERROR-stderr    :	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57)
+2017-04-02-default task-16-ERROR-stderr    :	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+2017-04-02-default task-16-ERROR-stderr    :	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46)
+2017-04-02-default task-16-ERROR-stderr    :	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64)
+2017-04-02-default task-16-ERROR-stderr    :	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:60)
+2017-04-02-default task-16-ERROR-stderr    :	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:77)
+2017-04-02-default task-16-ERROR-stderr    :	at io.undertow.security.handlers.NotificationReceiverHandler.handleRequest(NotificationReceiverHandler.java:50)
+2017-04-02-default task-16-ERROR-stderr    :	at io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43)
+2017-04-02-default task-16-ERROR-stderr    :	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+2017-04-02-default task-16-ERROR-stderr    :	at org.wildfly.extension.undertow.security.jacc.JACCContextIdHandler.handleRequest(JACCContextIdHandler.java:61)
+2017-04-02-default task-16-ERROR-stderr    :	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+2017-04-02-default task-16-ERROR-stderr    :	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+2017-04-02-default task-16-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:292)
+2017-04-02-default task-16-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler.access$100(ServletInitialHandler.java:81)
+2017-04-02-default task-16-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:138)
+2017-04-02-default task-16-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:135)
+2017-04-02-default task-16-ERROR-stderr    :	at io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48)
+2017-04-02-default task-16-ERROR-stderr    :	at io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43)
+2017-04-02-default task-16-ERROR-stderr    :	at io.undertow.servlet.api.LegacyThreadSetupActionWrapper$1.call(LegacyThreadSetupActionWrapper.java:44)
+2017-04-02-default task-16-ERROR-stderr    :	at io.undertow.servlet.api.LegacyThreadSetupActionWrapper$1.call(LegacyThreadSetupActionWrapper.java:44)
+2017-04-02-default task-16-ERROR-stderr    :	at io.undertow.servlet.api.LegacyThreadSetupActionWrapper$1.call(LegacyThreadSetupActionWrapper.java:44)
+2017-04-02-default task-16-ERROR-stderr    :	at io.undertow.servlet.api.LegacyThreadSetupActionWrapper$1.call(LegacyThreadSetupActionWrapper.java:44)
+2017-04-02-default task-16-ERROR-stderr    :	at io.undertow.servlet.api.LegacyThreadSetupActionWrapper$1.call(LegacyThreadSetupActionWrapper.java:44)
+2017-04-02-default task-16-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:272)
+2017-04-02-default task-16-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler.access$000(ServletInitialHandler.java:81)
+2017-04-02-default task-16-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:104)
+2017-04-02-default task-16-ERROR-stderr    :	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:202)
+2017-04-02-default task-16-ERROR-stderr    :	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:805)
+2017-04-02-default task-16-ERROR-stderr    :	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+2017-04-02-default task-16-ERROR-stderr    :	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+2017-04-02-default task-16-ERROR-stderr    :	at java.lang.Thread.run(Unknown Source)
+2017-04-02-default task-16-INFO -stdout    :Todays date: Sun Apr 02 19:05:35 IST 2017
+2017-04-02-default task-16-INFO -stdout    :User entered date: 2017-01-12
+2017-04-02-default task-16-INFO -stdout    :invalid date
+2017-04-02-default task-20-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-20-ERROR-stderr    :java.sql.SQLException: javax.resource.ResourceException: IJ000453: Unable to get managed connection for java:/OracleDS
+2017-04-02-default task-20-ERROR-stderr    :	at org.jboss.jca.adapters.jdbc.WrapperDataSource.getConnection(WrapperDataSource.java:146)
+2017-04-02-default task-20-ERROR-stderr    :	at org.jboss.as.connector.subsystems.datasources.WildFlyDataSource.getConnection(WildFlyDataSource.java:66)
+2017-04-02-default task-20-ERROR-stderr    :	at com.cg.asset.util.JndiUtil.getConnection(JndiUtil.java:106)
+2017-04-02-default task-20-ERROR-stderr    :	at com.cg.asset.daos.AssetDaoImpl.<init>(AssetDaoImpl.java:29)
+2017-04-02-default task-20-ERROR-stderr    :	at com.cg.asset.services.AssetServiceImpl.<init>(AssetServiceImpl.java:24)
+2017-04-02-default task-20-ERROR-stderr    :	at com.cg.asset.controller.AssetController.init(AssetController.java:37)
+2017-04-02-default task-20-ERROR-stderr    :	at javax.servlet.GenericServlet.init(GenericServlet.java:244)
+2017-04-02-default task-20-ERROR-stderr    :	at io.undertow.servlet.core.LifecyleInterceptorInvocation.proceed(LifecyleInterceptorInvocation.java:117)
+2017-04-02-default task-20-ERROR-stderr    :	at org.wildfly.extension.undertow.security.RunAsLifecycleInterceptor.init(RunAsLifecycleInterceptor.java:78)
+2017-04-02-default task-20-ERROR-stderr    :	at io.undertow.servlet.core.LifecyleInterceptorInvocation.proceed(LifecyleInterceptorInvocation.java:103)
+2017-04-02-default task-20-ERROR-stderr    :	at io.undertow.servlet.core.ManagedServlet$DefaultInstanceStrategy.start(ManagedServlet.java:250)
+2017-04-02-default task-20-ERROR-stderr    :	at io.undertow.servlet.core.ManagedServlet.getServlet(ManagedServlet.java:171)
+2017-04-02-default task-20-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletHandler.handleRequest(ServletHandler.java:84)
+2017-04-02-default task-20-ERROR-stderr    :	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62)
+2017-04-02-default task-20-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36)
+2017-04-02-default task-20-ERROR-stderr    :	at org.wildfly.extension.undertow.security.SecurityContextAssociationHandler.handleRequest(SecurityContextAssociationHandler.java:78)
+2017-04-02-default task-20-ERROR-stderr    :	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+2017-04-02-default task-20-ERROR-stderr    :	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:131)
+2017-04-02-default task-20-ERROR-stderr    :	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57)
+2017-04-02-default task-20-ERROR-stderr    :	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+2017-04-02-default task-20-ERROR-stderr    :	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46)
+2017-04-02-default task-20-ERROR-stderr    :	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64)
+2017-04-02-default task-20-ERROR-stderr    :	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:60)
+2017-04-02-default task-20-ERROR-stderr    :	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:77)
+2017-04-02-default task-20-ERROR-stderr    :	at io.undertow.security.handlers.NotificationReceiverHandler.handleRequest(NotificationReceiverHandler.java:50)
+2017-04-02-default task-20-ERROR-stderr    :	at io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43)
+2017-04-02-default task-20-ERROR-stderr    :	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+2017-04-02-default task-20-ERROR-stderr    :	at org.wildfly.extension.undertow.security.jacc.JACCContextIdHandler.handleRequest(JACCContextIdHandler.java:61)
+2017-04-02-default task-20-ERROR-stderr    :	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+2017-04-02-default task-20-ERROR-stderr    :	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+2017-04-02-default task-20-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:292)
+2017-04-02-default task-20-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler.access$100(ServletInitialHandler.java:81)
+2017-04-02-default task-20-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:138)
+2017-04-02-default task-20-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:135)
+2017-04-02-default task-20-ERROR-stderr    :	at io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48)
+2017-04-02-default task-20-ERROR-stderr    :	at io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43)
+2017-04-02-default task-20-ERROR-stderr    :	at io.undertow.servlet.api.LegacyThreadSetupActionWrapper$1.call(LegacyThreadSetupActionWrapper.java:44)
+2017-04-02-default task-20-ERROR-stderr    :	at io.undertow.servlet.api.LegacyThreadSetupActionWrapper$1.call(LegacyThreadSetupActionWrapper.java:44)
+2017-04-02-default task-20-ERROR-stderr    :	at io.undertow.servlet.api.LegacyThreadSetupActionWrapper$1.call(LegacyThreadSetupActionWrapper.java:44)
+2017-04-02-default task-20-ERROR-stderr    :	at io.undertow.servlet.api.LegacyThreadSetupActionWrapper$1.call(LegacyThreadSetupActionWrapper.java:44)
+2017-04-02-default task-20-ERROR-stderr    :	at io.undertow.servlet.api.LegacyThreadSetupActionWrapper$1.call(LegacyThreadSetupActionWrapper.java:44)
+2017-04-02-default task-20-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:272)
+2017-04-02-default task-20-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler.access$000(ServletInitialHandler.java:81)
+2017-04-02-default task-20-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:104)
+2017-04-02-default task-20-ERROR-stderr    :	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:202)
+2017-04-02-default task-20-ERROR-stderr    :	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:805)
+2017-04-02-default task-20-ERROR-stderr    :	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+2017-04-02-default task-20-ERROR-stderr    :	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+2017-04-02-default task-20-ERROR-stderr    :	at java.lang.Thread.run(Unknown Source)
+2017-04-02-default task-20-ERROR-stderr    :Caused by: javax.resource.ResourceException: IJ000453: Unable to get managed connection for java:/OracleDS
+2017-04-02-default task-20-ERROR-stderr    :	at org.jboss.jca.core.connectionmanager.AbstractConnectionManager.getManagedConnection(AbstractConnectionManager.java:656)
+2017-04-02-default task-20-ERROR-stderr    :	at org.jboss.jca.core.connectionmanager.tx.TxConnectionManagerImpl.getManagedConnection(TxConnectionManagerImpl.java:429)
+2017-04-02-default task-20-ERROR-stderr    :	at org.jboss.jca.core.connectionmanager.AbstractConnectionManager.allocateConnection(AbstractConnectionManager.java:747)
+2017-04-02-default task-20-ERROR-stderr    :	at org.jboss.jca.adapters.jdbc.WrapperDataSource.getConnection(WrapperDataSource.java:138)
+2017-04-02-default task-20-ERROR-stderr    :	... 48 more
+2017-04-02-default task-20-ERROR-stderr    :Caused by: javax.resource.ResourceException: IJ000655: No managed connections available within configured blocking timeout (30000 [ms])
+2017-04-02-default task-20-ERROR-stderr    :	at org.jboss.jca.core.connectionmanager.pool.mcp.SemaphoreConcurrentLinkedDequeManagedConnectionPool.getConnection(SemaphoreConcurrentLinkedDequeManagedConnectionPool.java:565)
+2017-04-02-default task-20-ERROR-stderr    :	at org.jboss.jca.core.connectionmanager.pool.AbstractPool.getSimpleConnection(AbstractPool.java:617)
+2017-04-02-default task-20-ERROR-stderr    :	at org.jboss.jca.core.connectionmanager.pool.AbstractPool.getConnection(AbstractPool.java:589)
+2017-04-02-default task-20-ERROR-stderr    :	at org.jboss.jca.core.connectionmanager.AbstractConnectionManager.getManagedConnection(AbstractConnectionManager.java:590)
+2017-04-02-default task-20-ERROR-stderr    :	... 51 more
+2017-04-02-default task-20-INFO -stdout    :/login.do   path
+2017-04-02-default task-21-INFO -stdout    :/authenticate.do   path
+2017-04-02-default task-21-INFO -stdout    :Chintan
+2017-04-02-default task-21-INFO -stdout    :cmistr
+2017-04-02-default task-21-INFO -stdout    :Chintan cmistr
+2017-04-02-default task-21-INFO -stdout    :In do
+2017-04-02-default task-21-INFO -stdout    :in try of dao
+2017-04-02-default task-21-INFO -stdout    :null
+2017-04-02-default task-22-INFO -stdout    :/authenticate.do   path
+2017-04-02-default task-22-INFO -stdout    :Chintan
+2017-04-02-default task-22-INFO -stdout    :cmistr
+2017-04-02-default task-22-INFO -stdout    :Chintan cmistr
+2017-04-02-default task-22-INFO -stdout    :In do
+2017-04-02-default task-22-INFO -stdout    :in try of dao
+2017-04-02-default task-22-INFO -stdout    :null
+2017-04-02-default task-24-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-24-ERROR-stderr    :java.sql.SQLException: javax.resource.ResourceException: IJ000453: Unable to get managed connection for java:/OracleDS
+2017-04-02-default task-24-ERROR-stderr    :	at org.jboss.jca.adapters.jdbc.WrapperDataSource.getConnection(WrapperDataSource.java:146)
+2017-04-02-default task-24-ERROR-stderr    :	at org.jboss.as.connector.subsystems.datasources.WildFlyDataSource.getConnection(WildFlyDataSource.java:66)
+2017-04-02-default task-24-ERROR-stderr    :	at com.cg.asset.util.JndiUtil.getConnection(JndiUtil.java:106)
+2017-04-02-default task-24-ERROR-stderr    :	at com.cg.asset.daos.AssetDaoImpl.<init>(AssetDaoImpl.java:29)
+2017-04-02-default task-24-ERROR-stderr    :	at com.cg.asset.services.AssetServiceImpl.<init>(AssetServiceImpl.java:24)
+2017-04-02-default task-24-ERROR-stderr    :	at com.cg.asset.controller.AssetController.init(AssetController.java:37)
+2017-04-02-default task-24-ERROR-stderr    :	at javax.servlet.GenericServlet.init(GenericServlet.java:244)
+2017-04-02-default task-24-ERROR-stderr    :	at io.undertow.servlet.core.LifecyleInterceptorInvocation.proceed(LifecyleInterceptorInvocation.java:117)
+2017-04-02-default task-24-ERROR-stderr    :	at org.wildfly.extension.undertow.security.RunAsLifecycleInterceptor.init(RunAsLifecycleInterceptor.java:78)
+2017-04-02-default task-24-ERROR-stderr    :	at io.undertow.servlet.core.LifecyleInterceptorInvocation.proceed(LifecyleInterceptorInvocation.java:103)
+2017-04-02-default task-24-ERROR-stderr    :	at io.undertow.servlet.core.ManagedServlet$DefaultInstanceStrategy.start(ManagedServlet.java:250)
+2017-04-02-default task-24-ERROR-stderr    :	at io.undertow.servlet.core.ManagedServlet.getServlet(ManagedServlet.java:171)
+2017-04-02-default task-24-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletHandler.handleRequest(ServletHandler.java:84)
+2017-04-02-default task-24-ERROR-stderr    :	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62)
+2017-04-02-default task-24-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36)
+2017-04-02-default task-24-ERROR-stderr    :	at org.wildfly.extension.undertow.security.SecurityContextAssociationHandler.handleRequest(SecurityContextAssociationHandler.java:78)
+2017-04-02-default task-24-ERROR-stderr    :	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+2017-04-02-default task-24-ERROR-stderr    :	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:131)
+2017-04-02-default task-24-ERROR-stderr    :	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57)
+2017-04-02-default task-24-ERROR-stderr    :	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+2017-04-02-default task-24-ERROR-stderr    :	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46)
+2017-04-02-default task-24-ERROR-stderr    :	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64)
+2017-04-02-default task-24-ERROR-stderr    :	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:60)
+2017-04-02-default task-24-ERROR-stderr    :	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:77)
+2017-04-02-default task-24-ERROR-stderr    :	at io.undertow.security.handlers.NotificationReceiverHandler.handleRequest(NotificationReceiverHandler.java:50)
+2017-04-02-default task-24-ERROR-stderr    :	at io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43)
+2017-04-02-default task-24-ERROR-stderr    :	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+2017-04-02-default task-24-ERROR-stderr    :	at org.wildfly.extension.undertow.security.jacc.JACCContextIdHandler.handleRequest(JACCContextIdHandler.java:61)
+2017-04-02-default task-24-ERROR-stderr    :	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+2017-04-02-default task-24-ERROR-stderr    :	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+2017-04-02-default task-24-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:292)
+2017-04-02-default task-24-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler.access$100(ServletInitialHandler.java:81)
+2017-04-02-default task-24-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:138)
+2017-04-02-default task-24-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:135)
+2017-04-02-default task-24-ERROR-stderr    :	at io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48)
+2017-04-02-default task-24-ERROR-stderr    :	at io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43)
+2017-04-02-default task-24-ERROR-stderr    :	at io.undertow.servlet.api.LegacyThreadSetupActionWrapper$1.call(LegacyThreadSetupActionWrapper.java:44)
+2017-04-02-default task-24-ERROR-stderr    :	at io.undertow.servlet.api.LegacyThreadSetupActionWrapper$1.call(LegacyThreadSetupActionWrapper.java:44)
+2017-04-02-default task-24-ERROR-stderr    :	at io.undertow.servlet.api.LegacyThreadSetupActionWrapper$1.call(LegacyThreadSetupActionWrapper.java:44)
+2017-04-02-default task-24-ERROR-stderr    :	at io.undertow.servlet.api.LegacyThreadSetupActionWrapper$1.call(LegacyThreadSetupActionWrapper.java:44)
+2017-04-02-default task-24-ERROR-stderr    :	at io.undertow.servlet.api.LegacyThreadSetupActionWrapper$1.call(LegacyThreadSetupActionWrapper.java:44)
+2017-04-02-default task-24-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:272)
+2017-04-02-default task-24-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler.access$000(ServletInitialHandler.java:81)
+2017-04-02-default task-24-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:104)
+2017-04-02-default task-24-ERROR-stderr    :	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:202)
+2017-04-02-default task-24-ERROR-stderr    :	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:805)
+2017-04-02-default task-24-ERROR-stderr    :	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+2017-04-02-default task-24-ERROR-stderr    :	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+2017-04-02-default task-24-ERROR-stderr    :	at java.lang.Thread.run(Unknown Source)
+2017-04-02-default task-24-ERROR-stderr    :Caused by: javax.resource.ResourceException: IJ000453: Unable to get managed connection for java:/OracleDS
+2017-04-02-default task-24-ERROR-stderr    :	at org.jboss.jca.core.connectionmanager.AbstractConnectionManager.getManagedConnection(AbstractConnectionManager.java:656)
+2017-04-02-default task-24-ERROR-stderr    :	at org.jboss.jca.core.connectionmanager.tx.TxConnectionManagerImpl.getManagedConnection(TxConnectionManagerImpl.java:429)
+2017-04-02-default task-24-ERROR-stderr    :	at org.jboss.jca.core.connectionmanager.AbstractConnectionManager.allocateConnection(AbstractConnectionManager.java:747)
+2017-04-02-default task-24-ERROR-stderr    :	at org.jboss.jca.adapters.jdbc.WrapperDataSource.getConnection(WrapperDataSource.java:138)
+2017-04-02-default task-24-ERROR-stderr    :	... 48 more
+2017-04-02-default task-24-ERROR-stderr    :Caused by: javax.resource.ResourceException: IJ000655: No managed connections available within configured blocking timeout (30000 [ms])
+2017-04-02-default task-24-ERROR-stderr    :	at org.jboss.jca.core.connectionmanager.pool.mcp.SemaphoreConcurrentLinkedDequeManagedConnectionPool.getConnection(SemaphoreConcurrentLinkedDequeManagedConnectionPool.java:565)
+2017-04-02-default task-24-ERROR-stderr    :	at org.jboss.jca.core.connectionmanager.pool.AbstractPool.getSimpleConnection(AbstractPool.java:617)
+2017-04-02-default task-24-ERROR-stderr    :	at org.jboss.jca.core.connectionmanager.pool.AbstractPool.getConnection(AbstractPool.java:589)
+2017-04-02-default task-24-ERROR-stderr    :	at org.jboss.jca.core.connectionmanager.AbstractConnectionManager.getManagedConnection(AbstractConnectionManager.java:590)
+2017-04-02-default task-24-ERROR-stderr    :	... 51 more
+2017-04-02-default task-24-INFO -stdout    :/login.do   path
+2017-04-02-default task-25-INFO -stdout    :/authenticate.do   path
+2017-04-02-default task-25-INFO -stdout    :Chintan
+2017-04-02-default task-25-INFO -stdout    :cmistr
+2017-04-02-default task-25-INFO -stdout    :Chintan cmistr
+2017-04-02-default task-25-INFO -stdout    :In do
+2017-04-02-default task-25-INFO -stdout    :in try of dao
+2017-04-02-default task-25-INFO -stdout    :null
+2017-04-02-default task-3-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-3-INFO -stdout    :/login.do   path
+2017-04-02-default task-4-INFO -stdout    :/authenticate.do   path
+2017-04-02-default task-4-INFO -stdout    :Chintan
+2017-04-02-default task-4-INFO -stdout    :cmistr
+2017-04-02-default task-4-INFO -stdout    :Chintan cmistr
+2017-04-02-default task-4-INFO -stdout    :In do
+2017-04-02-default task-4-INFO -stdout    :in try of dao
+2017-04-02-default task-4-INFO -stdout    :made query
+2017-04-02-default task-4-INFO -stdout    :setString
+2017-04-02-default task-4-INFO -stdout    :executed the query
+2017-04-02-default task-4-INFO -stdout    :got data from table!
+2017-04-02-default task-4-INFO -stdout    :here in daoImpl
+2017-04-02-default task-4-INFO -stdout    :User [userId=1001, userName=Chintan, userPassword=cmistr, userType=Manager]
+2017-04-02-default task-4-INFO -stdout    :after getrequest
+2017-04-02-default task-4-INFO -stdout    :Chintancmistr1001
+2017-04-02-default task-4-INFO -stdout    :User [userId=1001, userName=Chintan, userPassword=cmistr, userType=Manager]
+2017-04-02-default task-4-INFO -stdout    :2
+2017-04-02-default task-4-INFO -stdout    :104
+2017-04-02-default task-4-INFO -stdout    :104
+2017-04-02-default task-5-INFO -stdout    :/createRequestData.do   path
+2017-04-02-default task-5-INFO -stdout    :in create
+2017-04-02-default task-5-INFO -stdout    :after array
+2017-04-02-default task-5-INFO -stdout    :in try
+2017-04-02-default task-5-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-5-INFO -stdout    :got id
+2017-04-02-default task-5-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-5-INFO -stdout    :got assets
+2017-04-02-default task-5-INFO -stdout    :added names and assets
+2017-04-02-default task-6-INFO -stdout    :/addRequest.do   path
+2017-04-02-default task-6-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-6-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-6-INFO -stdout    :SQL DAte: 2004-01-12
+2017-04-02-default task-6-INFO -stdout    :Todays date: 2017-04-02
+2017-04-02-default task-6-INFO -stdout    :User entered date: 2004-01-12
+2017-04-02-default task-6-INFO -stdout    :invalid date
+2017-04-02-default task-7-INFO -stdout    :/addRequest.do   path
+2017-04-02-default task-7-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-7-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-7-INFO -stdout    :SQL DAte: 2017-01-12
+2017-04-02-default task-7-INFO -stdout    :Todays date: 2017-04-02
+2017-04-02-default task-7-INFO -stdout    :User entered date: 2017-01-12
+2017-04-02-default task-7-INFO -stdout    :invalid date
+2017-04-02-default task-8-INFO -stdout    :/authenticate.do   path
+2017-04-02-default task-8-INFO -stdout    :Chintan
+2017-04-02-default task-8-INFO -stdout    :cmistr
+2017-04-02-default task-8-INFO -stdout    :Chintan cmistr
+2017-04-02-default task-8-INFO -stdout    :In do
+2017-04-02-default task-8-INFO -stdout    :in try of dao
+2017-04-02-default task-8-INFO -stdout    :made query
+2017-04-02-default task-8-INFO -stdout    :setString
+2017-04-02-default task-8-INFO -stdout    :executed the query
+2017-04-02-default task-8-INFO -stdout    :got data from table!
+2017-04-02-default task-8-INFO -stdout    :here in daoImpl
+2017-04-02-default task-8-INFO -stdout    :User [userId=1001, userName=Chintan, userPassword=cmistr, userType=Manager]
+2017-04-02-default task-8-INFO -stdout    :after getrequest
+2017-04-02-default task-8-INFO -stdout    :Chintancmistr1001
+2017-04-02-default task-8-INFO -stdout    :User [userId=1001, userName=Chintan, userPassword=cmistr, userType=Manager]
+2017-04-02-default task-8-INFO -stdout    :2
+2017-04-02-default task-8-INFO -stdout    :104
+2017-04-02-default task-8-INFO -stdout    :104
+2017-04-02-default task-12-INFO -stdout    :/createRequestData.do   path
+2017-04-02-default task-12-INFO -stdout    :in create
+2017-04-02-default task-12-INFO -stdout    :after array
+2017-04-02-default task-12-INFO -stdout    :in try
+2017-04-02-default task-12-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-12-INFO -stdout    :got id
+2017-04-02-default task-12-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-12-INFO -stdout    :got assets
+2017-04-02-default task-12-INFO -stdout    :added names and assets
+2017-04-02-default task-13-INFO -stdout    :/addRequest.do   path
+2017-04-02-default task-13-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-13-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-13-INFO -stdout    :SQL DAte: 2017-01-12
+2017-04-02-default task-13-INFO -stdout    :Todays date: 2017-04-02
+2017-04-02-default task-13-INFO -stdout    :User entered date: 2017-01-12
+2017-04-02-default task-13-INFO -stdout    :invalid date
+2017-04-02-default task-15-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-15-INFO -stdout    :/login.do   path
+2017-04-02-default task-16-INFO -stdout    :/authenticate.do   path
+2017-04-02-default task-16-INFO -stdout    :Chintan
+2017-04-02-default task-16-INFO -stdout    :cmistr
+2017-04-02-default task-16-INFO -stdout    :Chintan cmistr
+2017-04-02-default task-16-INFO -stdout    :In do
+2017-04-02-default task-16-INFO -stdout    :in try of dao
+2017-04-02-default task-16-INFO -stdout    :made query
+2017-04-02-default task-16-INFO -stdout    :setString
+2017-04-02-default task-16-INFO -stdout    :executed the query
+2017-04-02-default task-16-INFO -stdout    :got data from table!
+2017-04-02-default task-16-INFO -stdout    :here in daoImpl
+2017-04-02-default task-16-INFO -stdout    :User [userId=1001, userName=Chintan, userPassword=cmistr, userType=Manager]
+2017-04-02-default task-16-INFO -stdout    :after getrequest
+2017-04-02-default task-16-INFO -stdout    :Chintancmistr1001
+2017-04-02-default task-16-INFO -stdout    :User [userId=1001, userName=Chintan, userPassword=cmistr, userType=Manager]
+2017-04-02-default task-16-INFO -stdout    :2
+2017-04-02-default task-16-INFO -stdout    :104
+2017-04-02-default task-16-INFO -stdout    :104
+2017-04-02-default task-17-INFO -stdout    :/createRequestData.do   path
+2017-04-02-default task-17-INFO -stdout    :in create
+2017-04-02-default task-17-INFO -stdout    :after array
+2017-04-02-default task-17-INFO -stdout    :in try
+2017-04-02-default task-17-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-17-INFO -stdout    :got id
+2017-04-02-default task-17-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-17-INFO -stdout    :got assets
+2017-04-02-default task-17-INFO -stdout    :added names and assets
+2017-04-02-default task-18-INFO -stdout    :/addRequest.do   path
+2017-04-02-default task-18-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-18-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-18-INFO -stdout    :SQL DAte:  014-12-12
+2017-04-02-default task-18-INFO -stdout    :Todays date: 2017-04-02
+2017-04-02-default task-18-INFO -stdout    :User entered date:  014-12-12
+2017-04-02-default task-18-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-18-WARN -org.jboss.jca.core.connectionmanager.listener.TxConnectionListener:IJ000305: Connection error occured: org.jboss.jca.core.connectionmanager.listener.TxConnectionListener@7646fa0a[state=NORMAL managed connection=org.jboss.jca.adapters.jdbc.local.LocalManagedConnection@7f5fa9df connection handles=1 lastReturned=1491142726510 lastValidated=1491142726510 lastCheckedOut=1491142726510 trackByTx=false pool=org.jboss.jca.core.connectionmanager.pool.strategy.OnePool@4570fb69 mcp=SemaphoreConcurrentLinkedQueueManagedConnectionPool@5ecea1e3[pool=OracleDS] xaResource=LocalXAResourceImpl@11c9dab[connectionListener=7646fa0a connectionManager=14733aca warned=false currentXid=null productName=Oracle productVersion=Oracle Database 11g Express Edition Release 11.2.0.2.0 - 64bit Production jndiName=java:/OracleDS] txSync=null]
+java.lang.IllegalArgumentException: Invalid year value
+	at oracle.sql.DATE.toBytes(DATE.java:652)
+	at oracle.sql.DATE.<init>(DATE.java:129)
+	at oracle.jdbc.driver.OraclePreparedStatement.setDate(OraclePreparedStatement.java:7161)
+	at oracle.jdbc.driver.OraclePreparedStatementWrapper.setDate(OraclePreparedStatementWrapper.java:166)
+	at org.jboss.jca.adapters.jdbc.WrappedPreparedStatement.setDate(WrappedPreparedStatement.java:753)
+	at com.cg.asset.daos.AssetDaoImpl.addRequest(AssetDaoImpl.java:260)
+	at com.cg.asset.services.AssetServiceImpl.addRequest(AssetServiceImpl.java:112)
+	at com.cg.asset.controller.AssetController.processrequest(AssetController.java:360)
+	at com.cg.asset.controller.AssetController.doGet(AssetController.java:48)
+	at com.cg.asset.controller.AssetController.doPost(AssetController.java:53)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:707)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at io.undertow.servlet.handlers.ServletHandler.handleRequest(ServletHandler.java:85)
+	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62)
+	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36)
+	at org.wildfly.extension.undertow.security.SecurityContextAssociationHandler.handleRequest(SecurityContextAssociationHandler.java:78)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:131)
+	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46)
+	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64)
+	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:60)
+	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:77)
+	at io.undertow.security.handlers.NotificationReceiverHandler.handleRequest(NotificationReceiverHandler.java:50)
+	at io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at org.wildfly.extension.undertow.security.jacc.JACCContextIdHandler.handleRequest(JACCContextIdHandler.java:61)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:292)
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$100(ServletInitialHandler.java:81)
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:138)
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:135)
+	at io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48)
+	at io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43)
+	at io.undertow.servlet.api.LegacyThreadSetupActionWrapper$1.call(LegacyThreadSetupActionWrapper.java:44)
+	at io.undertow.servlet.api.LegacyThreadSetupActionWrapper$1.call(LegacyThreadSetupActionWrapper.java:44)
+	at io.undertow.servlet.api.LegacyThreadSetupActionWrapper$1.call(LegacyThreadSetupActionWrapper.java:44)
+	at io.undertow.servlet.api.LegacyThreadSetupActionWrapper$1.call(LegacyThreadSetupActionWrapper.java:44)
+	at io.undertow.servlet.api.LegacyThreadSetupActionWrapper$1.call(LegacyThreadSetupActionWrapper.java:44)
+	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:272)
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$000(ServletInitialHandler.java:81)
+	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:104)
+	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:202)
+	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:805)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2017-04-02-default task-18-INFO -stdout    :com.cg.asset.exception.AssetException: Error during execution of INSERT query
+2017-04-02-default task-19-INFO -stdout    :/createRequestData.do   path
+2017-04-02-default task-19-INFO -stdout    :in create
+2017-04-02-default task-19-INFO -stdout    :after array
+2017-04-02-default task-19-INFO -stdout    :in try
+2017-04-02-default task-19-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-19-INFO -stdout    :got id
+2017-04-02-default task-19-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-19-INFO -stdout    :got assets
+2017-04-02-default task-19-INFO -stdout    :added names and assets
+2017-04-02-default task-23-INFO -stdout    :/addRequest.do   path
+2017-04-02-default task-23-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-23-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-23-INFO -stdout    :SQL DAte: 2017-12-12
+2017-04-02-default task-23-INFO -stdout    :Todays date: 2017-04-02
+2017-04-02-default task-23-INFO -stdout    :User entered date: 2017-12-12
+2017-04-02-default task-23-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-23-INFO -stdout    :com.cg.asset.exception.AssetException: Could not create sequence
+2017-04-02-default task-24-INFO -stdout    :/createRequestData.do   path
+2017-04-02-default task-24-INFO -stdout    :in create
+2017-04-02-default task-24-INFO -stdout    :after array
+2017-04-02-default task-24-INFO -stdout    :in try
+2017-04-02-default task-24-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-25-INFO -stdout    :/createRequestData.do   path
+2017-04-02-default task-25-INFO -stdout    :in create
+2017-04-02-default task-25-INFO -stdout    :after array
+2017-04-02-default task-25-INFO -stdout    :in try
+2017-04-02-default task-25-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-26-INFO -stdout    :/createRequestData.do   path
+2017-04-02-default task-26-INFO -stdout    :in create
+2017-04-02-default task-26-INFO -stdout    :after array
+2017-04-02-default task-26-INFO -stdout    :in try
+2017-04-02-default task-26-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-27-INFO -stdout    :/createRequestData.do   path
+2017-04-02-default task-27-INFO -stdout    :in create
+2017-04-02-default task-27-INFO -stdout    :after array
+2017-04-02-default task-27-INFO -stdout    :in try
+2017-04-02-default task-27-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-28-INFO -stdout    :/createRequestData.do   path
+2017-04-02-default task-28-INFO -stdout    :in create
+2017-04-02-default task-28-INFO -stdout    :after array
+2017-04-02-default task-28-INFO -stdout    :in try
+2017-04-02-default task-28-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-29-INFO -stdout    :/createRequestData.do   path
+2017-04-02-default task-29-INFO -stdout    :in create
+2017-04-02-default task-29-INFO -stdout    :after array
+2017-04-02-default task-29-INFO -stdout    :in try
+2017-04-02-default task-29-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-30-INFO -stdout    :/authenticate.do   path
+2017-04-02-default task-30-INFO -stdout    :Chintan
+2017-04-02-default task-30-INFO -stdout    :cmistr
+2017-04-02-default task-30-INFO -stdout    :Chintan cmistr
+2017-04-02-default task-30-INFO -stdout    :In do
+2017-04-02-default task-30-INFO -stdout    :in try of dao
+2017-04-02-default task-30-INFO -stdout    :made query
+2017-04-02-default task-30-INFO -stdout    :setString
+2017-04-02-default task-30-INFO -stdout    :executed the query
+2017-04-02-default task-30-INFO -stdout    :got data from table!
+2017-04-02-default task-30-INFO -stdout    :here in daoImpl
+2017-04-02-default task-30-INFO -stdout    :User [userId=1001, userName=Chintan, userPassword=cmistr, userType=Manager]
+2017-04-02-default task-30-INFO -stdout    :after getrequest
+2017-04-02-default task-30-INFO -stdout    :Chintancmistr1001
+2017-04-02-default task-30-INFO -stdout    :User [userId=1001, userName=Chintan, userPassword=cmistr, userType=Manager]
+2017-04-02-default task-30-INFO -stdout    :2
+2017-04-02-default task-30-INFO -stdout    :104
+2017-04-02-default task-30-INFO -stdout    :104
+2017-04-02-default task-34-INFO -stdout    :/createRequestData.do   path
+2017-04-02-default task-34-INFO -stdout    :in create
+2017-04-02-default task-34-INFO -stdout    :after array
+2017-04-02-default task-34-INFO -stdout    :in try
+2017-04-02-default task-34-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-35-INFO -stdout    :/createRequestData.do   path
+2017-04-02-default task-35-INFO -stdout    :in create
+2017-04-02-default task-35-INFO -stdout    :after array
+2017-04-02-default task-35-INFO -stdout    :in try
+2017-04-02-default task-35-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-36-INFO -stdout    :/createRequestData.do   path
+2017-04-02-default task-36-INFO -stdout    :in create
+2017-04-02-default task-36-INFO -stdout    :after array
+2017-04-02-default task-36-INFO -stdout    :in try
+2017-04-02-default task-36-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-37-INFO -stdout    :/createRequestData.do   path
+2017-04-02-default task-37-INFO -stdout    :in create
+2017-04-02-default task-37-INFO -stdout    :after array
+2017-04-02-default task-37-INFO -stdout    :in try
+2017-04-02-default task-37-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-38-INFO -stdout    :/createRequestData.do   path
+2017-04-02-default task-38-INFO -stdout    :in create
+2017-04-02-default task-38-INFO -stdout    :after array
+2017-04-02-default task-38-INFO -stdout    :in try
+2017-04-02-default task-38-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-40-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-40-ERROR-stderr    :java.sql.SQLException: javax.resource.ResourceException: IJ000453: Unable to get managed connection for java:/OracleDS
+2017-04-02-default task-40-ERROR-stderr    :	at org.jboss.jca.adapters.jdbc.WrapperDataSource.getConnection(WrapperDataSource.java:146)
+2017-04-02-default task-40-ERROR-stderr    :	at org.jboss.as.connector.subsystems.datasources.WildFlyDataSource.getConnection(WildFlyDataSource.java:66)
+2017-04-02-default task-40-ERROR-stderr    :	at com.cg.asset.util.JndiUtil.getConnection(JndiUtil.java:106)
+2017-04-02-default task-40-ERROR-stderr    :	at com.cg.asset.daos.AssetDaoImpl.<init>(AssetDaoImpl.java:29)
+2017-04-02-default task-40-ERROR-stderr    :	at com.cg.asset.services.AssetServiceImpl.<init>(AssetServiceImpl.java:24)
+2017-04-02-default task-40-ERROR-stderr    :	at com.cg.asset.controller.AssetController.init(AssetController.java:37)
+2017-04-02-default task-40-ERROR-stderr    :	at javax.servlet.GenericServlet.init(GenericServlet.java:244)
+2017-04-02-default task-40-ERROR-stderr    :	at io.undertow.servlet.core.LifecyleInterceptorInvocation.proceed(LifecyleInterceptorInvocation.java:117)
+2017-04-02-default task-40-ERROR-stderr    :	at org.wildfly.extension.undertow.security.RunAsLifecycleInterceptor.init(RunAsLifecycleInterceptor.java:78)
+2017-04-02-default task-40-ERROR-stderr    :	at io.undertow.servlet.core.LifecyleInterceptorInvocation.proceed(LifecyleInterceptorInvocation.java:103)
+2017-04-02-default task-40-ERROR-stderr    :	at io.undertow.servlet.core.ManagedServlet$DefaultInstanceStrategy.start(ManagedServlet.java:250)
+2017-04-02-default task-40-ERROR-stderr    :	at io.undertow.servlet.core.ManagedServlet.getServlet(ManagedServlet.java:171)
+2017-04-02-default task-40-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletHandler.handleRequest(ServletHandler.java:84)
+2017-04-02-default task-40-ERROR-stderr    :	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62)
+2017-04-02-default task-40-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36)
+2017-04-02-default task-40-ERROR-stderr    :	at org.wildfly.extension.undertow.security.SecurityContextAssociationHandler.handleRequest(SecurityContextAssociationHandler.java:78)
+2017-04-02-default task-40-ERROR-stderr    :	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+2017-04-02-default task-40-ERROR-stderr    :	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:131)
+2017-04-02-default task-40-ERROR-stderr    :	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57)
+2017-04-02-default task-40-ERROR-stderr    :	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+2017-04-02-default task-40-ERROR-stderr    :	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46)
+2017-04-02-default task-40-ERROR-stderr    :	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64)
+2017-04-02-default task-40-ERROR-stderr    :	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:60)
+2017-04-02-default task-40-ERROR-stderr    :	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:77)
+2017-04-02-default task-40-ERROR-stderr    :	at io.undertow.security.handlers.NotificationReceiverHandler.handleRequest(NotificationReceiverHandler.java:50)
+2017-04-02-default task-40-ERROR-stderr    :	at io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43)
+2017-04-02-default task-40-ERROR-stderr    :	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+2017-04-02-default task-40-ERROR-stderr    :	at org.wildfly.extension.undertow.security.jacc.JACCContextIdHandler.handleRequest(JACCContextIdHandler.java:61)
+2017-04-02-default task-40-ERROR-stderr    :	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+2017-04-02-default task-40-ERROR-stderr    :	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+2017-04-02-default task-40-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:292)
+2017-04-02-default task-40-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler.access$100(ServletInitialHandler.java:81)
+2017-04-02-default task-40-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:138)
+2017-04-02-default task-40-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:135)
+2017-04-02-default task-40-ERROR-stderr    :	at io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48)
+2017-04-02-default task-40-ERROR-stderr    :	at io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43)
+2017-04-02-default task-40-ERROR-stderr    :	at io.undertow.servlet.api.LegacyThreadSetupActionWrapper$1.call(LegacyThreadSetupActionWrapper.java:44)
+2017-04-02-default task-40-ERROR-stderr    :	at io.undertow.servlet.api.LegacyThreadSetupActionWrapper$1.call(LegacyThreadSetupActionWrapper.java:44)
+2017-04-02-default task-40-ERROR-stderr    :	at io.undertow.servlet.api.LegacyThreadSetupActionWrapper$1.call(LegacyThreadSetupActionWrapper.java:44)
+2017-04-02-default task-40-ERROR-stderr    :	at io.undertow.servlet.api.LegacyThreadSetupActionWrapper$1.call(LegacyThreadSetupActionWrapper.java:44)
+2017-04-02-default task-40-ERROR-stderr    :	at io.undertow.servlet.api.LegacyThreadSetupActionWrapper$1.call(LegacyThreadSetupActionWrapper.java:44)
+2017-04-02-default task-40-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:272)
+2017-04-02-default task-40-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler.access$000(ServletInitialHandler.java:81)
+2017-04-02-default task-40-ERROR-stderr    :	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:104)
+2017-04-02-default task-40-ERROR-stderr    :	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:202)
+2017-04-02-default task-40-ERROR-stderr    :	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:805)
+2017-04-02-default task-40-ERROR-stderr    :	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+2017-04-02-default task-40-ERROR-stderr    :	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+2017-04-02-default task-40-ERROR-stderr    :	at java.lang.Thread.run(Unknown Source)
+2017-04-02-default task-40-ERROR-stderr    :Caused by: javax.resource.ResourceException: IJ000453: Unable to get managed connection for java:/OracleDS
+2017-04-02-default task-40-ERROR-stderr    :	at org.jboss.jca.core.connectionmanager.AbstractConnectionManager.getManagedConnection(AbstractConnectionManager.java:656)
+2017-04-02-default task-40-ERROR-stderr    :	at org.jboss.jca.core.connectionmanager.tx.TxConnectionManagerImpl.getManagedConnection(TxConnectionManagerImpl.java:429)
+2017-04-02-default task-40-ERROR-stderr    :	at org.jboss.jca.core.connectionmanager.AbstractConnectionManager.allocateConnection(AbstractConnectionManager.java:747)
+2017-04-02-default task-40-ERROR-stderr    :	at org.jboss.jca.adapters.jdbc.WrapperDataSource.getConnection(WrapperDataSource.java:138)
+2017-04-02-default task-40-ERROR-stderr    :	... 48 more
+2017-04-02-default task-40-ERROR-stderr    :Caused by: javax.resource.ResourceException: IJ000655: No managed connections available within configured blocking timeout (30000 [ms])
+2017-04-02-default task-40-ERROR-stderr    :	at org.jboss.jca.core.connectionmanager.pool.mcp.SemaphoreConcurrentLinkedDequeManagedConnectionPool.getConnection(SemaphoreConcurrentLinkedDequeManagedConnectionPool.java:565)
+2017-04-02-default task-40-ERROR-stderr    :	at org.jboss.jca.core.connectionmanager.pool.AbstractPool.getSimpleConnection(AbstractPool.java:617)
+2017-04-02-default task-40-ERROR-stderr    :	at org.jboss.jca.core.connectionmanager.pool.AbstractPool.getConnection(AbstractPool.java:589)
+2017-04-02-default task-40-ERROR-stderr    :	at org.jboss.jca.core.connectionmanager.AbstractConnectionManager.getManagedConnection(AbstractConnectionManager.java:590)
+2017-04-02-default task-40-ERROR-stderr    :	... 51 more
+2017-04-02-default task-40-INFO -stdout    :/login.do   path
+2017-04-02-default task-41-INFO -stdout    :/authenticate.do   path
+2017-04-02-default task-41-INFO -stdout    :Chintan
+2017-04-02-default task-41-INFO -stdout    :cmistr
+2017-04-02-default task-41-INFO -stdout    :Chintan cmistr
+2017-04-02-default task-41-INFO -stdout    :In do
+2017-04-02-default task-41-INFO -stdout    :in try of dao
+2017-04-02-default task-41-INFO -stdout    :null
+2017-04-02-default task-42-INFO -stdout    :/authenticate.do   path
+2017-04-02-default task-42-INFO -stdout    :Chintan
+2017-04-02-default task-42-INFO -stdout    :cmistr
+2017-04-02-default task-42-INFO -stdout    :Chintan cmistr
+2017-04-02-default task-42-INFO -stdout    :In do
+2017-04-02-default task-42-INFO -stdout    :in try of dao
+2017-04-02-default task-42-INFO -stdout    :null
+2017-04-02-default task-43-INFO -stdout    :/authenticate.do   path
+2017-04-02-default task-43-INFO -stdout    :Chintan
+2017-04-02-default task-43-INFO -stdout    :cmistr
+2017-04-02-default task-43-INFO -stdout    :Chintan cmistr
+2017-04-02-default task-43-INFO -stdout    :In do
+2017-04-02-default task-43-INFO -stdout    :in try of dao
+2017-04-02-default task-43-INFO -stdout    :null
+2017-04-02-default task-47-INFO -stdout    :/authenticate.do   path
+2017-04-02-default task-47-INFO -stdout    :Chintan
+2017-04-02-default task-47-INFO -stdout    :cmistr
+2017-04-02-default task-47-INFO -stdout    :Chintan cmistr
+2017-04-02-default task-47-INFO -stdout    :In do
+2017-04-02-default task-47-INFO -stdout    :in try of dao
+2017-04-02-default task-47-INFO -stdout    :null
+2017-04-02-default task-3-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-3-INFO -stdout    :/login.do   path
+2017-04-02-default task-4-INFO -stdout    :/authenticate.do   path
+2017-04-02-default task-4-INFO -stdout    :Chintan
+2017-04-02-default task-4-INFO -stdout    :cmistr
+2017-04-02-default task-4-INFO -stdout    :Chintan cmistr
+2017-04-02-default task-4-INFO -stdout    :In do
+2017-04-02-default task-4-INFO -stdout    :in try of dao
+2017-04-02-default task-4-INFO -stdout    :made query
+2017-04-02-default task-4-INFO -stdout    :setString
+2017-04-02-default task-4-INFO -stdout    :executed the query
+2017-04-02-default task-4-INFO -stdout    :got data from table!
+2017-04-02-default task-4-INFO -stdout    :here in daoImpl
+2017-04-02-default task-4-INFO -stdout    :User [userId=1001, userName=Chintan, userPassword=cmistr, userType=Manager]
+2017-04-02-default task-4-INFO -stdout    :after getrequest
+2017-04-02-default task-4-INFO -stdout    :Chintancmistr1001
+2017-04-02-default task-4-INFO -stdout    :User [userId=1001, userName=Chintan, userPassword=cmistr, userType=Manager]
+2017-04-02-default task-4-INFO -stdout    :2
+2017-04-02-default task-4-INFO -stdout    :104
+2017-04-02-default task-4-INFO -stdout    :104
+2017-04-02-default task-5-INFO -stdout    :/createRequestData.do   path
+2017-04-02-default task-5-INFO -stdout    :in create
+2017-04-02-default task-5-INFO -stdout    :after array
+2017-04-02-default task-5-INFO -stdout    :in try
+2017-04-02-default task-5-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-5-INFO -stdout    :got id
+2017-04-02-default task-5-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-5-INFO -stdout    :got assets
+2017-04-02-default task-5-INFO -stdout    :added names and assets
+2017-04-02-default task-6-INFO -stdout    :/addRequest.do   path
+2017-04-02-default task-6-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-6-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-6-INFO -stdout    :SQL DAte: 2017-12-12
+2017-04-02-default task-6-INFO -stdout    :Todays date: 2017-04-02
+2017-04-02-default task-6-INFO -stdout    :User entered date: 2017-12-12
+2017-04-02-default task-6-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-6-INFO -stdout    :Raised 1 request successfully
+2017-04-02-default task-8-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-8-INFO -stdout    :/login.do   path
+2017-04-02-default task-9-INFO -stdout    :/authenticate.do   path
+2017-04-02-default task-9-INFO -stdout    :Chintan
+2017-04-02-default task-9-INFO -stdout    :cmistr
+2017-04-02-default task-9-INFO -stdout    :Chintan cmistr
+2017-04-02-default task-9-INFO -stdout    :In do
+2017-04-02-default task-9-INFO -stdout    :in try of dao
+2017-04-02-default task-9-INFO -stdout    :made query
+2017-04-02-default task-9-INFO -stdout    :setString
+2017-04-02-default task-9-INFO -stdout    :executed the query
+2017-04-02-default task-9-INFO -stdout    :got data from table!
+2017-04-02-default task-9-INFO -stdout    :here in daoImpl
+2017-04-02-default task-9-INFO -stdout    :User [userId=1001, userName=Chintan, userPassword=cmistr, userType=Manager]
+2017-04-02-default task-9-INFO -stdout    :after getrequest
+2017-04-02-default task-9-INFO -stdout    :Chintancmistr1001
+2017-04-02-default task-9-INFO -stdout    :User [userId=1001, userName=Chintan, userPassword=cmistr, userType=Manager]
+2017-04-02-default task-9-INFO -stdout    :2
+2017-04-02-default task-9-INFO -stdout    :104
+2017-04-02-default task-9-INFO -stdout    :104
+2017-04-02-default task-10-INFO -stdout    :/createRequestData.do   path
+2017-04-02-default task-10-INFO -stdout    :in create
+2017-04-02-default task-10-INFO -stdout    :after array
+2017-04-02-default task-10-INFO -stdout    :in try
+2017-04-02-default task-10-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-10-INFO -stdout    :got id
+2017-04-02-default task-10-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-10-INFO -stdout    :got assets
+2017-04-02-default task-10-INFO -stdout    :added names and assets
+2017-04-02-default task-11-INFO -stdout    :/addRequest.do   path
+2017-04-02-default task-11-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-11-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-11-INFO -stdout    :SQL DAte: 2016-12-12
+2017-04-02-default task-11-INFO -stdout    :Todays date: 2017-04-02
+2017-04-02-default task-11-INFO -stdout    :User entered date: 2016-12-12
+2017-04-02-default task-11-INFO -stdout    :invalid date
+2017-04-02-default task-12-INFO -stdout    :/addRequest.do   path
+2017-04-02-default task-12-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-12-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-12-INFO -stdout    :SQL DAte: 0018-05-28
+2017-04-02-default task-12-INFO -stdout    :Todays date: 2017-04-02
+2017-04-02-default task-12-INFO -stdout    :User entered date: 0018-05-28
+2017-04-02-default task-12-INFO -stdout    :invalid date
+2017-04-02-default task-13-INFO -stdout    :/addRequest.do   path
+2017-04-02-default task-13-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-13-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-13-INFO -stdout    :SQL DAte: 2017-02-04
+2017-04-02-default task-13-INFO -stdout    :Todays date: 2017-04-02
+2017-04-02-default task-13-INFO -stdout    :User entered date: 2017-02-04
+2017-04-02-default task-13-INFO -stdout    :invalid date
+2017-04-02-default task-14-INFO -stdout    :/addRequest.do   path
+2017-04-02-default task-14-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-14-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-14-INFO -stdout    :SQL DAte: 2017-12-12
+2017-04-02-default task-14-INFO -stdout    :Todays date: 2017-04-02
+2017-04-02-default task-14-INFO -stdout    :User entered date: 2017-12-12
+2017-04-02-default task-14-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-14-INFO -stdout    :Raised 1 request successfully
+2017-04-02-default task-16-INFO -stdout    :/showAllRequests.do   path
+2017-04-02-default task-16-INFO -stdout    :showall
+2017-04-02-default task-16-INFO -stdout    :104
+2017-04-02-default task-16-INFO -stdout    :[Request [requestId=2, mgrId=104, empNo=101, assetId=1001, requestDate=2017-12-12, requestForDays=5, status=Pending]]
+2017-04-02-default task-16-INFO -stdout    :[Request [requestId=2, mgrId=104, empNo=101, assetId=1001, requestDate=2017-12-12, requestForDays=5, status=Pending], Request [requestId=3, mgrId=104, empNo=101, assetId=1001, requestDate=2017-12-12, requestForDays=2, status=Pending]]
+2017-04-02-default task-16-INFO -stdout    :[Request [requestId=2, mgrId=104, empNo=101, assetId=1001, requestDate=2017-12-12, requestForDays=5, status=Pending], Request [requestId=3, mgrId=104, empNo=101, assetId=1001, requestDate=2017-12-12, requestForDays=2, status=Pending]]
+2017-04-02-default task-18-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-18-INFO -stdout    :/login.do   path
+2017-04-02-default task-19-INFO -stdout    :/authenticate.do   path
+2017-04-02-default task-19-INFO -stdout    :Chintan
+2017-04-02-default task-19-INFO -stdout    :cmistr
+2017-04-02-default task-19-INFO -stdout    :Chintan cmistr
+2017-04-02-default task-19-INFO -stdout    :In do
+2017-04-02-default task-19-INFO -stdout    :in try of dao
+2017-04-02-default task-19-INFO -stdout    :made query
+2017-04-02-default task-19-INFO -stdout    :setString
+2017-04-02-default task-19-INFO -stdout    :executed the query
+2017-04-02-default task-19-INFO -stdout    :got data from table!
+2017-04-02-default task-19-INFO -stdout    :here in daoImpl
+2017-04-02-default task-19-INFO -stdout    :User [userId=1001, userName=Chintan, userPassword=cmistr, userType=Manager]
+2017-04-02-default task-19-INFO -stdout    :after getrequest
+2017-04-02-default task-19-INFO -stdout    :Chintancmistr1001
+2017-04-02-default task-19-INFO -stdout    :User [userId=1001, userName=Chintan, userPassword=cmistr, userType=Manager]
+2017-04-02-default task-19-INFO -stdout    :2
+2017-04-02-default task-19-INFO -stdout    :104
+2017-04-02-default task-19-INFO -stdout    :104
+2017-04-02-default task-20-INFO -stdout    :/createRequestData.do   path
+2017-04-02-default task-20-INFO -stdout    :in create
+2017-04-02-default task-20-INFO -stdout    :after array
+2017-04-02-default task-20-INFO -stdout    :in try
+2017-04-02-default task-20-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-20-INFO -stdout    :got id
+2017-04-02-default task-20-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-21-INFO -stdout    :/createRequestData.do   path
+2017-04-02-default task-21-INFO -stdout    :in create
+2017-04-02-default task-21-INFO -stdout    :after array
+2017-04-02-default task-21-INFO -stdout    :in try
+2017-04-02-default task-21-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-22-INFO -stdout    :/createRequestData.do   path
+2017-04-02-default task-22-INFO -stdout    :in create
+2017-04-02-default task-22-INFO -stdout    :after array
+2017-04-02-default task-22-INFO -stdout    :in try
+2017-04-02-default task-22-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-59-INFO -stdout    :/createRequestData.do   path
+2017-04-02-default task-59-INFO -stdout    :in create
+2017-04-02-default task-59-INFO -stdout    :after array
+2017-04-02-default task-59-INFO -stdout    :in try
+2017-04-02-default task-59-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-60-INFO -stdout    :/createRequestData.do   path
+2017-04-02-default task-60-INFO -stdout    :in create
+2017-04-02-default task-60-INFO -stdout    :after array
+2017-04-02-default task-60-INFO -stdout    :in try
+2017-04-02-default task-60-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-1-INFO -stdout    :/createRequestData.do   path
+2017-04-02-default task-1-INFO -stdout    :in create
+2017-04-02-default task-1-INFO -stdout    :after array
+2017-04-02-default task-1-INFO -stdout    :in try
+2017-04-02-default task-1-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-3-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-3-INFO -stdout    :/login.do   path
+2017-04-02-default task-4-INFO -stdout    :/authenticate.do   path
+2017-04-02-default task-4-INFO -stdout    :Chintan
+2017-04-02-default task-4-INFO -stdout    :cmistr
+2017-04-02-default task-4-INFO -stdout    :Chintan cmistr
+2017-04-02-default task-4-INFO -stdout    :In do
+2017-04-02-default task-4-INFO -stdout    :in try of dao
+2017-04-02-default task-4-INFO -stdout    :made query
+2017-04-02-default task-4-INFO -stdout    :setString
+2017-04-02-default task-4-INFO -stdout    :executed the query
+2017-04-02-default task-4-INFO -stdout    :got data from table!
+2017-04-02-default task-4-INFO -stdout    :here in daoImpl
+2017-04-02-default task-4-INFO -stdout    :User [userId=1001, userName=Chintan, userPassword=cmistr, userType=Manager]
+2017-04-02-default task-4-INFO -stdout    :after getrequest
+2017-04-02-default task-4-INFO -stdout    :Chintancmistr1001
+2017-04-02-default task-4-INFO -stdout    :User [userId=1001, userName=Chintan, userPassword=cmistr, userType=Manager]
+2017-04-02-default task-4-INFO -stdout    :2
+2017-04-02-default task-4-INFO -stdout    :104
+2017-04-02-default task-4-INFO -stdout    :104
+2017-04-02-default task-5-INFO -stdout    :/createRequestData.do   path
+2017-04-02-default task-5-INFO -stdout    :in create
+2017-04-02-default task-5-INFO -stdout    :after array
+2017-04-02-default task-5-INFO -stdout    :in try
+2017-04-02-default task-5-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-5-INFO -stdout    :got id
+2017-04-02-default task-5-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-5-INFO -stdout    :got assets
+2017-04-02-default task-5-INFO -stdout    :added names and assets
+2017-04-02-default task-6-INFO -stdout    :/addRequest.do   path
+2017-04-02-default task-6-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-6-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-6-INFO -stdout    :SQL DAte: 2016-07-31
+2017-04-02-default task-6-INFO -stdout    :Todays date: 2017-04-02
+2017-04-02-default task-6-INFO -stdout    :User entered date: 2016-07-31
+2017-04-02-default task-6-INFO -stdout    :invalid date
+2017-04-02-default task-7-INFO -stdout    :/addRequest.do   path
+2017-04-02-default task-7-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-7-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-7-INFO -stdout    :SQL DAte: 2018-09-12
+2017-04-02-default task-7-INFO -stdout    :Todays date: 2017-04-02
+2017-04-02-default task-7-INFO -stdout    :User entered date: 2018-09-12
+2017-04-02-default task-7-INFO -com.cg.asset.util.JndiUtil:Established db onnection
+2017-04-02-default task-8-INFO -stdout    :/logout.do   path
+2017-04-02-default task-8-INFO -stdout    :in logout.do
